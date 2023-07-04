@@ -30,3 +30,5 @@ bundle install
 ```
 bundle exec jekyll serve --livereload
 ```
+----
+Credits for the site template to [MLSS](https://github.com/mlinpl/mlss2023.mlinpl.org).
