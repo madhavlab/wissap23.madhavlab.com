@@ -21,7 +21,7 @@
 
 # Head settings
 title: WiSSAP 2023
-email: akshayr@iitk.ac.in
+email: wissap23@iitk.ac.in
 event-date: "2023-12-17T00:00:00"
 tagline: Winter School on Speech and Audio Processing
 description: >-
@@ -61,6 +61,15 @@ navigation:
 
   - name: "/ Timeline"
     url: "#timeline"
+
+  - name: "/Program"
+    subsites:
+    - name: "Call for Abstract"
+      url: "cfa"
+    - name: "WiSSAP Cup"
+      url: "wissap-cup"
+
+
 
   - name: "/ Agenda"
     url: "#agenda"
