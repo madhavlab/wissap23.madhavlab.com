@@ -87,14 +87,6 @@ The selected candidates shall have to pay the registration fee as per the follow
 </tbody>
 </table>
 
-<!-- **Estimated costs (on the higher end of the spectrum):**
-
-- Participation fee: 250 Euro
-- Accommodation in a hostel: 1 person room 250PLN/night, 2 people room 175PLN/person/night
-- Food: 150PLN/day
-- Entertainment: 300PLN
-- Public transport: 60PLN  -->
-
 
 <!-- ## Scholarship
 

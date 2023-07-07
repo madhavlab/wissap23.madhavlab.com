@@ -44,8 +44,6 @@ All submissions must comply to the following guidelines:
 - Note that we allow authors to edit their submissions until the camera-ready deadline.
 - Supplementary material (optional): authors can also submit a demo video (5 minutes or less, mp4, h264 codec, 100MB or less, with closed captions).
 
-For additional information, you can reach us via email at wissap23@iitk.ac.in
-
 ## Timeline
 
 Coming Soon!
@@ -55,3 +53,5 @@ Coming Soon!
 ## Frequently Asked Questions
 
 We will fill this section with questions we receive and our answers.
+
+For additional information, you can reach us via email at wissap23@iitk.ac.in

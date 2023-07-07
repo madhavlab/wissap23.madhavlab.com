@@ -57,7 +57,7 @@ navigation:
     url: "#speakers"
 
   - name: "/ Registration"
-    url: "registration"
+    url: "#registration"
 
   - name: "/ Timeline"
     url: "#timeline"
