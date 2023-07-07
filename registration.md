@@ -50,7 +50,7 @@ If this page doesn’t include all the information you need, please send your qu
 
 ## Costs
 
-The selected candidates shall have to pay the registration fee as per the following rates. Please note that this amount **covers** your accommodation, coffee breaks every day, welcome reception and other event-related expenses. Other than that, it does **not** include any substantial food provision (i.e., breakfast, lunch or dinner). Estimated cost for a standard meal in any of the student halls ranges between INR 60 to INR 75 as per the day-menu.
+The selected candidates shall have to pay the registration fee as per the following rates. Please note that this amount **covers** lunch and coffee breaks every day, welcome reception, banquet dinner and other event-related expenses. Other than that, it does **not** include any substantial food provision (i.e., breakfast or dinner). Estimated cost for a standard meal in any of the student halls ranges between INR 60 to INR 75 as per the day-menu.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin-left:auto;margin-right:auto;}
@@ -72,17 +72,17 @@ The selected candidates shall have to pay the registration fee as per the follow
   <tr>
     <td class="tg-c3ow"><span style="font-weight:bold">Student</span></td>
     <td class="tg-c3ow">INR 3000</td>
-    <td class="tg-c3ow">USD 100</td>
+    <td class="tg-c3ow">USD 60</td>
   </tr>
   <tr>
     <td class="tg-c3ow"><span style="font-weight:bold">Academia</span></td>
-    <td class="tg-c3ow">INR 4500</td>
-    <td class="tg-c3ow">USD 200</td>
+    <td class="tg-c3ow">INR 5000</td>
+    <td class="tg-c3ow">USD 130</td>
   </tr>
   <tr>
     <td class="tg-c3ow"><span style="font-weight:bold">Industry</span></td>
-    <td class="tg-c3ow">INR 5500</td>
-    <td class="tg-c3ow">USD 300</td>
+    <td class="tg-c3ow">INR 7000</td>
+    <td class="tg-c3ow">USD 180</td>
   </tr>
 </tbody>
 </table>
