@@ -15,7 +15,7 @@ if(eventCountdownElement){
                 document.getElementById("s-left").innerHTML = ("0" + ts.seconds).slice(-2);
             }
         },
-        new Date("2023-12-17T00:00:00Z"),
+        new Date("2023-12-18T00:00:00Z"),
         countdown.DAYS|countdown.HOURS|countdown.MINUTES|countdown.SECONDS);
 }
 

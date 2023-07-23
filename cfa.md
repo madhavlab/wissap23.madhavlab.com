@@ -31,8 +31,8 @@ We invite submissions of ongoing studies, analytical literature survey and publi
 
 ## Submission
 
-Authors need to submit a (2+1)- page extended abstract to showcase their work. The submission can be either an ongoing research project or an already published work. It will be reviewed by the technical program committe and a decision will be made on the acceptance of the submission. The type of presentation for the accepted abstracts, i.e. oral or poster shall be decided thereafter. 
-The accepted abstracts must be presented by at least one author as a poster during the poster/oral session. Authors’ registration to the winter school is mandatory but can be completed after the notification of acceptance. Note that the extended abstract is not a conference paper and will not be part of any proceedings.
+Authors need to submit a (2+1)- page extended abstract to showcase their work. The **submission can be** either an ongoing research project or an already published work. It will be reviewed by the technical program committe and a decision will be made on the acceptance of the submission. The type of presentation for the accepted abstracts, i.e. oral or poster shall be decided thereafter. 
+The accepted abstracts **must be** presented by at least one author as a poster during the poster/oral session. Authors’ registration to the winter school is mandatory but can be completed after the notification of acceptance. Note that the extended abstract is not a conference paper and will not be part of any proceedings.
 
 ### Guidelines
 
@@ -40,13 +40,16 @@ All submissions must comply to the following guidelines:
 
 - Length (2+1): two pages (maximum) of content plus one optional page for bibliography only.
 - Templates: make sure to use the latest template ([zip](/templates/ExtendedAbstractTemplateForWiSSAP23.zip)/ [overleaf](https://www.overleaf.com/read/nyvqxznrkrry)) for WiSSAP EA (available for Latex). Submissions must be in PDF format.
-- Submission system: please submit the extended abstract to https://cmt3.research.microsoft.com/WiSSAP2023/ (Click [here](https://cmt3.research.microsoft.com/WiSSAP2023/) -> Author console -> Create new submission)
+- Submission system: please submit the extended abstract to [https://cmt3.research.microsoft.com/WiSSAP2023/](https://cmt3.research.microsoft.com/WiSSAP2023/) (Click [here](https://cmt3.research.microsoft.com/WiSSAP2023/) -> Author console -> Create new submission)
 - Note that we allow authors to edit their submissions until the camera-ready deadline.
 - Supplementary material (optional): authors can also submit a demo video (5 minutes or less, mp4, h264 codec, 100MB or less, with closed captions).
 
 ## Timeline
 
-Coming Soon!
+- 11:59 PM AOE (Anywhere-on-Earth), Tuesday 10th October 2023 - Abstract Submission Deadline
+- 30th October 2023 - Results announced
+- 15th November 2023 - Registration of Authors
+- 5th December 2023 - Camera Ready Submission Deadline
 
 ---
 
@@ -54,4 +57,4 @@ Coming Soon!
 
 We will fill this section with questions we receive and our answers.
 
-For additional information, you can reach us via email at wissap23@iitk.ac.in
+For additional information, you can reach us via email at [{{ site.email }}](mailto:{{ site.email }})

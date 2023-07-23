@@ -64,25 +64,25 @@ The selected candidates shall have to pay the registration fee as per the follow
 <thead>
   <tr>
     <th class="tg-c3ow"><span style="font-weight:bold">Category</span></th>
-    <th class="tg-c3ow"><span style="font-weight:bold">Indian Citizen</span></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">ISCA/IEEE Member</span></th>
     <th class="tg-c3ow"><span style="font-weight:bold">Otherwise</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-c3ow"><span style="font-weight:bold">Student</span></td>
-    <td class="tg-c3ow">INR 3000</td>
-    <td class="tg-c3ow">USD 60</td>
+    <td class="tg-c3ow">INR 3000 + 18% GST = INR 3540</td>
+    <td class="tg-c3ow">INR 4000 + 18% GST = INR 4720</td>
   </tr>
   <tr>
     <td class="tg-c3ow"><span style="font-weight:bold">Academia</span></td>
-    <td class="tg-c3ow">INR 5000</td>
-    <td class="tg-c3ow">USD 130</td>
+    <td class="tg-c3ow">INR 5000 + 18% GST = INR 5900</td>
+    <td class="tg-c3ow">INR 6000 + 18% GST = INR 7080</td>
   </tr>
   <tr>
     <td class="tg-c3ow"><span style="font-weight:bold">Industry</span></td>
-    <td class="tg-c3ow">INR 7000</td>
-    <td class="tg-c3ow">USD 180</td>
+    <td class="tg-c3ow">INR 7000 + 18% GST = INR 8260</td>
+    <td class="tg-c3ow">INR 8000 + 18% GST = INR 9440</td>
   </tr>
 </tbody>
 </table>

@@ -21,8 +21,8 @@
 
 # Head settings
 title: WiSSAP 2023
-email: wissap23@iitk.ac.in
-event-date: "2023-12-17T00:00:00"
+email: wissap2023@gmail.com
+event-date: "2023-12-18T00:00:00"
 tagline: Winter School on Speech and Audio Processing
 description: >-
   WiSSAP 2023 is a summer school providing a didactic introduction to a range of modern topics in Machine Learning
@@ -42,9 +42,9 @@ inline-logo: '<span class="logo"><span class="main-name">WiSSAP<span class="supe
 header:
   heading: '<span class="logo"><span class="main-name">WiSSAP<span class="superscript"></span></span> <span class="sub-name">2023</span></span>'
   subheading: Winter School on <span class="emph">Speech</span> and <span class="emph">Audio Processing</span>
-  date-location: 17 December - 20 December / Kanpur, India
+  date-location: 18 December - 21 December / Kanpur, India
   # Countdown settings
-  countdown-date: "2023-12-17T00:00:00Z"
+  countdown-date: "2023-12-18T00:00:00Z"
   #countdown-text: '<a href="registration">Registration</a> closes in:'
 
 
@@ -63,13 +63,12 @@ navigation:
     url: "#timeline"
 
   - name: "/Program"
+    url: "#program"
     subsites:
     - name: "Call for Abstract"
       url: "cfa"
     - name: "WiSSAP Cup"
       url: "wissap-cup"
-
-
 
   - name: "/ Agenda"
     url: "#agenda"

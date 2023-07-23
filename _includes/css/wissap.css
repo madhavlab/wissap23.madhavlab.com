@@ -873,6 +873,10 @@ body {
     width: 33%;
 }
 
+.days-4 {
+    width: 25%;
+}
+
 .days-7 {
     width: 14.25%;
     min-width: 150px;
