@@ -3,7 +3,24 @@ layout: page
 title: Registration
 permalink: /registration
 ---
+<style>
+.custom-button {
+    display: inline-block;
+    padding: 4px 8px;
+    /* font-size: 18px; */
+    /* font-weight: bold; */
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    /* border: 2px solid #007bff; 
+    border-radius: 8px; */
+}
 
+.custom-button:hover {
+    background-color: #0056b3; 
+    border-color: #0056b3; 
+}
+</style>
 
 <!-- <span style="color: #FF5356;">Registration is now closed. We thank all the applicants for their interest in the school. The results of the application process will be announced on 28th April 2023.</span> -->
 
@@ -13,12 +30,14 @@ permalink: /registration
 
 ## Registration process in short
 
-1) Submit your details to the <a href="https://forms.office.com/r/ydZGfCW4uB" class="btn btn-default btn-lg"><i class="fa-solid fa-table-list"></i> <span class="network-name">Application form</span></a>
-<!-- Submit your extended abstract: <a href="https://openreview.net/group?id=MLinPL.org/2023/MLSS" class="btn btn-default btn-lg"><i class="fa-solid fa-file-pdf"></i> <span class="network-name">Openreview</span></a> -->
+1) Complete the payment process (before 15th September) as per your applicant status [here](#costs) by clicking on the <a href="/cfa" target="_blank" class="btn btn-primary custom-button">payment page</a>.
 
-2) Once selected, pay the registration fee, within the given time frame as per your applicant status [here](#costs).
+2) Fill up the <a href="https://forms.office.com/r/ydZGfCW4uB" target="_blank" class="btn btn-primary custom-button">registration form</a> and share the payment transaction id.
 
-3) Once you get a confirmation from us on your registration (before 20th October), start packing!  
+3) You will get a confirmation in 2-3 days of filling up the form, along with an invitation letter and further details on attending.
+
+<!-- 1) Submit your details to the <a href="https://forms.office.com/r/ydZGfCW4uB" class="btn btn-default btn-lg"><i class="fa-solid fa-table-list"></i> <span class="network-name">Application form</span></a> -->
+<!-- 4) Once you get a confirmation from us on your registration (before 20th October), start packing!   -->
 
 All the information about the registration process can be found below on this page.
 
@@ -31,7 +50,7 @@ All the information about the registration process can be found below on this pa
 <!-- The application process closes on ~~10th September 2023 11:59PM AOE (Anywhere on Earth)~~ 9:59 PM UTC-0 on Tusday 11th April 2023. -->
 Please read the information below and fill in the forms linked on this page.
 
-The application process closes on 15th September 2023 11:59PM AOE (Anywhere on Earth). Please note that only limited seats are available and the selected applicants would be updated via email by 30th September 2023. Only selected candidates will be allowed to register and attend. 
+The application process closes on 15th September 2023 11:59PM AOE (Anywhere on Earth). Please note that only limited seats are available and preference to register and attend shall be given to postgraduate research students, senior undergraduates, etc. 
 
 The lectures and tutorials in the school will be targetted at the audience with a familiarity of Machine Learning at the level of an early-stage graduate student, but don’t let this statement stop you from applying if you’re interested in attending!
 
@@ -42,10 +61,9 @@ If this page doesn’t include all the information you need, please send your qu
 ## Timeline
 
 <!-- - ~~11:59 PM AOE (Anywhere-on-Earth) Saturday 8th April 2023~~ 9:59 PM UTC-0, Tusday 11th April 2023 - Registration closes -->
-- 11:59 PM AOE (Anywhere-on-Earth), Friday 15th September 2023 - Registration closes
-- 30th September 2023 - Results announced
-- 1st October 2023 - 12th October 2023 - Time to pay the registration fee (if your application is accepted)
-- 13th October 2023 - 20th October 2023 - Final confirmation of participation
+- Saturday 5th August 2023 - Registration and Payment opens
+- 11:59 PM AOE (Anywhere-on-Earth), Friday 15th September 2023 - Registration and Payment closes
+- 18th December 2023 - 21th December 2023 - WiSSAP 2023
 
 
 ## Costs
@@ -64,7 +82,7 @@ The selected candidates shall have to pay the registration fee as per the follow
 <thead>
   <tr>
     <th class="tg-c3ow"><span style="font-weight:bold">Category</span></th>
-    <th class="tg-c3ow"><span style="font-weight:bold">ISCA/IEEE Member</span></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">IEEE Member</span></th>
     <th class="tg-c3ow"><span style="font-weight:bold">Otherwise</span></th>
   </tr>
 </thead>
@@ -86,21 +104,6 @@ The selected candidates shall have to pay the registration fee as per the follow
   </tr>
 </tbody>
 </table>
-
-
-<!-- ## Scholarship
-
-We will provide a limited number of scholarships that are intended to support diversity and enable participation for applicants who otherwise wouldn't be able to take part due to their financial situation.
-The scholarships will be allocated based on a combination of merit and diversity criteria.
-
-You can apply for the scholarship as part of the application form linked at the bottom of this page.
-
-The scholarship includes reimbursement of the following costs up to the total of 4970PLN:
-- Participation fee (includes coffee breaks every day)
-- Accommodation
-- Travel -->
-
----
 
 
 ## Frequently Asked Questions

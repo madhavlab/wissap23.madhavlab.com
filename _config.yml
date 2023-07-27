@@ -25,10 +25,7 @@ email: wissap2023@gmail.com
 event-date: "2023-12-18T00:00:00"
 tagline: Winter School on Speech and Audio Processing
 description: >-
-  WiSSAP 2023 is a summer school providing a didactic introduction to a range of modern topics in Machine Learning
-  and their applications in other disciplines of Science, primarily intended for research-oriented graduate students. 
-  The school features a line-up of internationally recognized researchers who will talk with enthusiasm about their subjects. 
-  Our goal is to provide a unique opportunity to learn from and connect with the leading experts in the scenic setting of the historic city of Kraków, Poland.
+  16th Winter School on Speech and Audio Processing 2023
 twitter-username: "@madhavlab"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://madhavlab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
