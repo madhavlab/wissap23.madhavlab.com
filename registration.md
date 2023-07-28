@@ -34,7 +34,7 @@ permalink: /registration
 
 2) Fill up the <a href="https://forms.office.com/r/ydZGfCW4uB" target="_blank" class="btn btn-primary custom-button">registration form</a> and share the payment transaction id.
 
-3) You will get a confirmation in 2-3 days of filling up the form, along with an invitation letter and further details on attending.
+3) You will get a confirmation in 2-3 days of filling up the form, along with further details on attending.
 
 <!-- 1) Submit your details to the <a href="https://forms.office.com/r/ydZGfCW4uB" class="btn btn-default btn-lg"><i class="fa-solid fa-table-list"></i> <span class="network-name">Application form</span></a> -->
 <!-- 4) Once you get a confirmation from us on your registration (before 20th October), start packing!   -->
@@ -121,3 +121,7 @@ Q: How can I get an accomodation?<br/>
 
 Q: Can I get a refund of the registration fee if I'm not able to attend the school?<br/>
 **A: Yes, refunds of the registration fee are possible and will be considered if a justifiable reason is provided (e.g., health issues or unexpected personal circumstances). Refund requests must be submitted no later than 15th November, otherwise, due to the organization costs already incurred (catering and venue services), we will not be able to provide a refund.**
+
+If this section does not answer all of your queries, please ask us [{{ site.email }}](mailto:{{ site.email }}).
+
+---
