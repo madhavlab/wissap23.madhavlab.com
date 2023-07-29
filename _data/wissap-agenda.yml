@@ -2,9 +2,10 @@
   subtitle: 18 December
   events:
     - title: Inauguration and Session
-      subtitle: Intro to Music Theory
+      subtitle: "Intro to Music Theory:"
+      subsubtitle: Indian and Non- Indian
       time: 9:00 - 10:30
-      height: 1.5
+      height: 2
     - title: Session 
       subtitle: Intro to Music Theory
       time: 10:30 - 11:00
@@ -12,11 +13,11 @@
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       subtitle: ""
       time: 11:00 - 11:30
-      height: 1.5
+      height: 1-3
     - title: Session
       subtitle: Introduction to MIR
       time: 11:30 - 1:00
-      height: 1.5
+      height: 2
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
       subtitle: ""
       time: 1:00 - 2:00
@@ -28,7 +29,7 @@
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       subtitle: ""
       time: 3:30 - 4:00
-      height: 1.5
+      height: 1-8
     - title: Session
       subtitle: "TBD"
       time: 4:00 - 5:30
@@ -37,20 +38,15 @@
       subtitle: ""
       time: 5:30 - 6:00
       height: 1.5
-    - title: ""
-    # # - title: <i class="fa-solid fa-handshake"></i> Party 1
-    #   subtitle: ""
-    #   time: 7:30+
-    #   height: 1.5
-
 
 - title: Tuesday
   subtitle: 19 December
   events:
-    - title: Zhiyao Duan
-      subtitle: Session
+    - title: George Tzanetakis
+      subtitle: Intro to MIR, Music Terminology,
+      subsubtitle: Music Features
       time: 9:00 - 10:30
-      height: 1.5
+      height: 2
     - title: Flash Presentations
       subtitle: Extended Abstracts
       time: 10:30 - 11:00
@@ -59,16 +55,16 @@
       subtitle: Extended Abstracts
       time: 11:00 - 11:30
       height: 1.5
-    - title: George Tzanetakis
-      subtitle: Session
+    - title: Zhiyao Duan
+      subtitle: Tempo, Beats, Rhythm Analysis
       time: 11:30 - 1:00
-      height: 1.5
+      height: 2
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
       subtitle: ""
       time: 1:00 - 2:00
       height: 1.5
     - title: George Tzanetakis 
-      subtitle: Hands On
+      subtitle: "Hands On: Structure Analysis, Music Alignment"
       time: 2:00 - 3:30
       height: 1.5
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break + Posters (1)
@@ -79,7 +75,7 @@
       subtitle: MIR Research in India
       time: 4:00 - 5:30
       height: 1.5
-    - title: IndSCA Presentation
+    - title: Society Presentation
       subtitle: ""
       time: 5:30 - 6:00
       height: 1.5
@@ -91,10 +87,11 @@
 - title: Wednesday
   subtitle: 20 December
   events:
-    - title: Zhiyao Duan
-      subtitle: Session
+    - title: George Tzanetakis 
+      subtitle: Music Classification Tasks,
+      subsubtitle: Chord Recognition
       time: 9:00 - 10:30
-      height: 1.5
+      height: 2
     - title: Flash Presentations
       subtitle: Extended Abstracts
       time: 10:30 - 11:00
@@ -103,16 +100,16 @@
       subtitle: Extended Abstracts
       time: 11:00 - 11:30
       height: 1.5
-    - title: George Tzanetakis
-      subtitle: Session
+    - title: Zhiyao Duan
+      subtitle: Pitch Detection, Multi-Pitch Estimation, Melody Extraction, Music Transcription
       time: 11:30 - 1:00
-      height: 1.5
+      height: 2
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
       subtitle: ""
       time: 1:00 - 2:00
       height: 1.5
     - title: George Tzanetakis 
-      subtitle: Hands On
+      subtitle: "Hands On: Sound Source Separation"
       time: 2:00 - 3:30
       height: 1.5
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break + Posters (2)
@@ -120,7 +117,7 @@
       time: 3:30 - 4:00
       height: 1.5
     - title: Andrew McPherson
-      subtitle: Session
+      subtitle: Intelligent Musical Instruments
       time: 4:00 - 5:30
       height: 1.5
     - title: Music Program
@@ -137,8 +134,9 @@
 - title: Thursday
   subtitle: 21 December
   events:
-    - title: Zhiyao Duan
-      subtitle: Session
+    - title: George Tzanetakis 
+      subtitle: Computational Ethnomusicology,
+      subsubtitle: Non-Western Music
       time: 9:00 - 10:30
     - title: Flash Presentations
       subtitle: Extended Abstracts
@@ -149,16 +147,16 @@
       subtitle: Extended Abstracts
       time: 11:00 - 11:30
       height: 1.5
-    - title: George Tzanetakis
-      subtitle: Session
+    - title: Zhiyao Duan
+      subtitle: Music Generation, Music Interaction
       time: 11:30 - 1:30
-      height: 1.5
+      height: 2
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
       subtitle: ""
       time: 1:00 - 2:00
       height: 1.5
     - title: Zhiyao Duan
-      subtitle: Hands On
+      subtitle: "Hands On: Interactive Music Generation"
       time: 2:00 - 3:30
       height: 1.5
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break + Posters (3)
