@@ -36,9 +36,6 @@ permalink: /registration
 
 3) You will get a confirmation in 2-3 days of filling up the form, along with further details on attending.
 
-<!-- 1) Submit your details to the <a href="https://forms.office.com/r/ydZGfCW4uB" class="btn btn-default btn-lg"><i class="fa-solid fa-table-list"></i> <span class="network-name">Application form</span></a> -->
-<!-- 4) Once you get a confirmation from us on your registration (before 20th October), start packing!   -->
-
 All the information about the registration process can be found below on this page.
 
 
