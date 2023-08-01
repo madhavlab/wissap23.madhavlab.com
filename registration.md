@@ -3,6 +3,7 @@ layout: page
 title: Registration
 permalink: /registration
 ---
+
 <style>
 .custom-button {
     display: inline-block;

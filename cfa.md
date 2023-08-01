@@ -4,6 +4,24 @@ title: Call for Abstract
 permalink: /cfa
 ---
 
+<style>
+.custom-button {
+    display: inline-block;
+    padding: 4px 8px;
+    /* font-size: 18px; */
+    /* font-weight: bold; */
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    /* border: 2px solid #007bff; 
+    border-radius: 8px; */
+}
+
+.custom-button:hover {
+    background-color: #0056b3; 
+    border-color: #0056b3; 
+}
+</style>
 
 <!-- <span style="color: #FF5356;">Registration is now closed. We thank all the applicants for their interest in the school. The results of the application process will be announced on 28th April 2023.</span> -->
 
@@ -39,8 +57,10 @@ The accepted abstracts **must be** presented by at least one author as a poster 
 All submissions must comply to the following guidelines:
 
 - Length (2+1): two pages (maximum) of content plus one optional page for bibliography only.
-- Templates: make sure to use the latest template ([zip](/templates/ExtendedAbstractTemplateForWiSSAP23.zip)/ [overleaf](https://www.overleaf.com/read/nyvqxznrkrry)) for WiSSAP EA (available for Latex). Submissions must be in PDF format.
-- Submission system: please submit the extended abstract to [https://cmt3.research.microsoft.com/WiSSAP2023/](https://cmt3.research.microsoft.com/WiSSAP2023/) (Click [here](https://cmt3.research.microsoft.com/WiSSAP2023/) -> Author console -> Create new submission)
+- Templates: make sure to use the latest template: <a href="/templates/ExtendedAbstractTemplateForWiSSAP23.zip" target="_blank" class="btn btn-primary custom-button">Zip</a> / <a href="https://www.overleaf.com/read/nyvqxznrkrry" target="_blank" class="btn btn-primary custom-button">Overleaf</a> , for WiSSAP EA (available for Latex). Submissions must be in PDF format.
+- Submission system: please submit the extended abstract to the Microsoft CMT site. <a href="https://cmt3.research.microsoft.com/WiSSAP2023/" target="_blank" class="btn btn-primary custom-button">Submit Here</a>
+
+<!-- (Click [here](https://cmt3.research.microsoft.com/WiSSAP2023/) -> Author console -> Create new submission) -->
 - Note that we allow authors to edit their submissions until the camera-ready deadline.
 - Supplementary material (optional): authors can also submit a demo video (5 minutes or less, mp4, h264 codec, 100MB or less, with closed captions).
 

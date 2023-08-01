@@ -9,11 +9,16 @@ The 16th Winter School on Audio and Speech Processing 2023 is pleased to announc
 
 ## Challenges
 
-### 1. [Music Search: Query by Example](/wissap-cup/qbe)
+### 1. [Music Search: Query by Example]()
 
+Finding perceptually similar audio in a massive audio corpus is computationally and memory expensive. 
+Audio fingerprinting is a technique that derives a content-based audio summary and links it with similar audio fragments in the database. It allows for an efficient and quick search against other audio fragments.
+The task is to develop method to search a given audio query in a large audio database. The challenge in this task is to efficiently find the best match corresponding to highly distorted query recordings.
 
-### 2. [Music Search: Query by Humming](/wissap-cup/qbh)
- 
+### 2. [Music Search: Query by Humming]()
+Query-by-humming is a Music Information Retrieval task that enables users to search for songs by humming a tune. This task is challenging due to several factors, including the variability of input signals from a person humming or singing, differences in tempo between recordings and queries, and background noise in the pieces being matched.
+The user hums a query which is searched over a database of songs. A ranking is performed over the set of matches detected in the search database to determine the song-id of query. 
+
 
 ## Timeline
 

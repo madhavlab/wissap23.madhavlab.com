@@ -65,7 +65,7 @@ navigation:
     - name: "Call for Abstract"
       url: "cfa"
     - name: "WiSSAP Cup"
-      url: "wissap-cup-intrial"
+      url: "wissap-cup"
 
   - name: "/ Agenda"
     url: "#agenda"
