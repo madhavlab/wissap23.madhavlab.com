@@ -37,7 +37,8 @@ author:
 # Header settings
 inline-logo: '<span class="logo"><span class="main-name">WiSSAP<span class="superscript"></span></span> <span class="sub-name"></span></span>'
 header:
-  heading: '<span class="logo"><span class="main-name">WiSSAP<span class="superscript"></span></span> <span class="sub-name">2023</span></span>'
+  heading: '<img src="images/wissap_logo.png" width="610">'
+  # '<span class="logo"><span class="main-name">WiSSAP<span class="superscript"></span></span> <span class="sub-name">2023</span></span>'
   subheading: Winter School on <span class="emph">Speech</span> and <span class="emph">Audio Processing</span>
   date-location: 18 December - 21 December / Kanpur, India
   # Countdown settings

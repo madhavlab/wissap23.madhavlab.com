@@ -31,7 +31,7 @@ permalink: /registration
 
 ## Registration process in short
 
-1) Complete the payment process (before 15th September) as per your applicant status [here](#costs) by clicking on the <a href="/cfa" target="_blank" class="btn btn-primary custom-button">payment page</a>.
+1) Complete the payment process (before 30th September) as per your applicant status [here](#costs) by clicking on <a href="https://iitk-my.sharepoint.com/:w:/g/personal/sagard_iitk_ac_in/EWVL7nm3FKtAqh2W2K-LReMBju6g_H_J-ualK_EN0RSn7w?e=M8udQz" target="_blank" class="btn btn-primary custom-button">payment page</a>.
 
 2) Fill up the <a href="https://forms.office.com/r/ydZGfCW4uB" target="_blank" class="btn btn-primary custom-button">registration form</a> and share the payment transaction id.
 
@@ -48,11 +48,11 @@ All the information about the registration process can be found below on this pa
 <!-- The application process closes on ~~10th September 2023 11:59PM AOE (Anywhere on Earth)~~ 9:59 PM UTC-0 on Tusday 11th April 2023. -->
 Please read the information below and fill in the forms linked on this page.
 
-The application process closes on 15th September 2023 11:59PM AOE (Anywhere on Earth). Please note that only limited seats are available and preference to register and attend shall be given to postgraduate research students, senior undergraduates, etc. 
-
+The application process closes on 30th September 2023 11:59PM AOE (Anywhere on Earth). Please note that only limited seats are available and preference to register and attend shall be given to postgraduate research students, senior undergraduates, etc. 
 The lectures and tutorials in the school will be targetted at the audience with a familiarity of Machine Learning at the level of an early-stage graduate student, but don’t let this statement stop you from applying if you’re interested in attending!
 
-The registration fee varies as per your professional status and affiliation. For more details see [here](#costs).
+The registration fee varies as per your professional status and affiliation. For more details see [here](#costs). Also note that the discounted rate is available only if you register before the **early-bird deadline** (28th August).
+
 If this page doesn’t include all the information you need, please send your questions to [{{ site.email }}](mailto:{{ site.email }}), we will answer as soon as possible and add the missing information to the Frequently Asked Question section at the bottom of this page.
 
 
@@ -60,7 +60,8 @@ If this page doesn’t include all the information you need, please send your qu
 
 <!-- - ~~11:59 PM AOE (Anywhere-on-Earth) Saturday 8th April 2023~~ 9:59 PM UTC-0, Tusday 11th April 2023 - Registration closes -->
 - Saturday 5th August 2023 - Registration and Payment opens
-- 11:59 PM AOE (Anywhere-on-Earth), Friday 15th September 2023 - Registration and Payment closes
+- 11:59 PM AOE (Anywhere-on-Earth), Friday 28th August 2023 - Early Bird Registration and Payment closes
+- 11:59 PM AOE (Anywhere-on-Earth), Friday 30th September 2023 - Late Registration and Payment closes
 - 18th December 2023 - 21th December 2023 - WiSSAP 2023
 
 
@@ -76,12 +77,13 @@ The selected candidates shall have to pay the registration fee as per the follow
   font-weight:normal;overflow:hidden;padding:16px 20px;word-break:normal;}
 .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top;margin-left:auto;margin-right:auto;}
 </style>
+
 <table class="tg">
 <thead>
   <tr>
     <th class="tg-c3ow"><span style="font-weight:bold">Category</span></th>
-    <th class="tg-c3ow"><span style="font-weight:bold">IEEE Member</span></th>
-    <th class="tg-c3ow"><span style="font-weight:bold">Otherwise</span></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">Early Bird (Before 28 September)</span></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">Late Registration (Post 28 September)</span></th>
   </tr>
 </thead>
 <tbody>
@@ -103,6 +105,7 @@ The selected candidates shall have to pay the registration fee as per the follow
 </tbody>
 </table>
 
+<br>
 
 ## Frequently Asked Questions
 
@@ -115,7 +118,7 @@ Q: Can I receive an invoice for the registration fee?<br/>
 **A: Yes, when paying the registration fee through the online platform, select "I want to receive an invoice" and provide the required information.**
 
 Q: How can I get an accomodation?<br/>
-**A: .**
+**A: Accomodation will be provided on/near campus. Please note that this is not covered in the registration. More details shall be provided soon.**
 
 Q: Can I get a refund of the registration fee if I'm not able to attend the school?<br/>
 **A: Yes, refunds of the registration fee are possible and will be considered if a justifiable reason is provided (e.g., health issues or unexpected personal circumstances). Refund requests must be submitted no later than 15th November, otherwise, due to the organization costs already incurred (catering and venue services), we will not be able to provide a refund.**

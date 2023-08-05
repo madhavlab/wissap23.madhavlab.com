@@ -2,12 +2,12 @@
   subtitle: 18 December
   events:
     - title: Inauguration and Session
-      subtitle: "Intro to Music Theory:"
-      subsubtitle: Indian and Non- Indian
+      subtitle: "Fundamentals of"
+      subsubtitle: Audio Signal Processing 
       time: 9:00 - 10:30
       height: 2
-    - title: Session 
-      subtitle: Intro to Music Theory
+    - title: Vipul Arora 
+      subtitle: Audio Signal Processing
       time: 10:30 - 11:00
       height: 1.5
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
