@@ -1,87 +1,86 @@
-- name: Sagar Dutta
-  title: Event Head
-
-- name: Suraj Jaiswal
-  title: Event Head
-
-- name: Akshay Raina
-  title: Webmaster and Abstract
-
-- name: Kavya Ranjan Saxena
-  title: Competition
-
-- name: Sumit Kumar
-  title: Logistics Coordinator
-
-- name: Akanksha Singh
-  title: Abstract and Promotion
-
-- name: Rahul Kodag
-  title: Travel Coordinator
-
-- name: Parampreet
-  title: IT Support
-
-- name: Raviteja
-  title: Accomodation Coordinator
-
-- name: Shiv Narayana
-  title: Finance
- 
-- name: Kajal
-  title: Music Program
-
 # - name: Sagar Dutta
 #   title: Event Head
-#   webpage: https://madhavlab.github.io/team/sagard
-#   image: images/core-team/sagard.jpeg
 
 # - name: Suraj Jaiswal
 #   title: Event Head
-#   webpage: https://madhavlab.github.io/team/jsuraj
-#   image: images/core-team/jsuraj.jpeg
 
 # - name: Akshay Raina
 #   title: Webmaster and Abstract
-#   webpage: https://madhavlab.github.io/team/akshayr
-#   image: images/core-team/akshayr.jpeg
 
 # - name: Kavya Ranjan Saxena
 #   title: Competition
-#   webpage: https://madhavlab.github.io/team/kavyars
-#   image: images/core-team/kavyars.jpeg
 
 # - name: Sumit Kumar
 #   title: Logistics Coordinator
-#   webpage: https://madhavlab.github.io/team/krsumit
-#   image: images/core-team/krsumit.jpeg
 
 # - name: Akanksha Singh
 #   title: Abstract and Promotion
-#   webpage: https://madhavlab.github.io/team/akankkss20
-#   image: images/core-team/akankkss20.jpeg
 
 # - name: Rahul Kodag
 #   title: Travel Coordinator
-#   webpage: https://madhavlab.github.io/team/rkodag
-#   image: images/core-team/rkodag.jpeg
 
-# - name: Parampreet Singh
+# - name: Parampreet
 #   title: IT Support
-#   webpage: https://madhavlab.github.io/team/params21
-#   image: images/core-team/params21.jpg
 
 # - name: Raviteja
 #   title: Accomodation Coordinator
-#   webpage: https://madhavlab.github.io/team/rraja21
-#   image: images/core-team/rraja21.jpg
 
-# - name: Shiv Narayan
+# - name: Shiv Narayana
 #   title: Finance
-#   webpage: https://madhavlab.github.io/team/shivnp
-#   image: images/core-team/shivnp.jpg
-
+ 
 # - name: Kajal
 #   title: Music Program
-#   webpage: https://madhavlab.github.io/team/KajalHeer
-#   image: images/core-team/KajalHeer.png
+
+- name: Sagar Dutta
+  title: Event Head
+  webpage: https://madhavlab.github.io/team/sagard
+  image: images/core-team/sagard.jpeg
+
+- name: Suraj Jaiswal
+  title: Event Head
+  webpage: https://madhavlab.github.io/team/jsuraj
+  image: images/core-team/jsuraj.jpeg
+
+- name: Akshay Raina
+  title: Webmaster and Abstract
+  webpage: https://madhavlab.github.io/team/akshayr
+  image: images/core-team/placeholder-m.jpeg
+
+- name: Kavya Ranjan Saxena
+  title: Competition
+  webpage: https://madhavlab.github.io/team/kavyars
+  image: images/core-team/kavyars.jpeg
+
+- name: Sumit Kumar
+  title: Logistics Coordinator
+  webpage: https://madhavlab.github.io/team/krsumit
+  image: images/core-team/krsumit.jpeg
+
+- name: Akanksha Singh
+  title: Abstract and Promotion
+  webpage: https://madhavlab.github.io/team/akankss20
+  image: images/core-team/akankss20.jpeg
+
+- name: Rahul Kodag
+  title: Travel Coordinator
+  webpage: https://madhavlab.github.io/team/rkodag
+  image: images/core-team/rkodag.jpeg
+
+- name: Parampreet Singh
+  title: IT Support
+  webpage: https://madhavlab.github.io/team/params21
+  image: images/core-team/params21.jpg
+
+- name: Raviteja
+  title: Accomodation Coordinator
+  webpage: https://madhavlab.github.io/team/rraja21
+  image: images/core-team/rraja21.jpeg
+
+- name: Shiv Narayan
+  title: Finance
+  webpage: https://madhavlab.github.io/team/shivnp
+  image: images/core-team/shivnp.jpg
+
+- name: Kajal
+  title: Music Program
+  image: images/core-team/KajalHeer.png

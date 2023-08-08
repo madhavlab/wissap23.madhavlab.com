@@ -35,7 +35,17 @@ WiSSAP 23 will aim at fostering collaboration between researchers, developers, e
 
 We invite submissions of ongoing studies, analytical literature survey and published works, on topics including but not limited to:
 
-- MIR fundamentals and methodology: music signal processing; symbolic music processing; metadata, tags, linked data, and semantic web; lyrics and other textual data; web mining, and natural language processing; multimodality.
+- Music Information Retrieval
+- Audio Event Detection
+- Content based audio retrieval
+- Multi modal information retrieval
+- Computational Musicology
+- Music Generation
+- Intelligent Musical Instrument
+- Audio and Speech processing
+
+
+<!-- - MIR fundamentals and methodology: music signal processing; symbolic music processing; metadata, tags, linked data, and semantic web; lyrics and other textual data; web mining, and natural language processing; multimodality.
 - Knowledge-driven approaches to MIR: representations of music; computational music theory and musicology; cognitive MIR; machine learning/artificial intelligence for music; computational ethnomusicology.
 - Musical features and properties: melody and motives; harmony, chords and tonality; rhythm, beat, tempo; structure, segmentation, and form; representations of music; timbre, instrumentation, and singing voice; musical style and genre; musical affect, emotion and mood; expression and performative aspects of music.
 - MIR tasks: sound source separation; music transcription and annotation; music generation; optical music recognition; alignment, synchronization, and score following; music summarization; music synthesis and transformation; fingerprinting; automatic classification; indexing and querying; pattern matching and detection; similarity metrics.
@@ -43,7 +53,7 @@ We invite submissions of ongoing studies, analytical literature survey and publi
 - Philosophical and ethical discussions: philosophical and methodological foundations; legal and societal aspects of MIR; ethical issues related to designing and implementing MIR tools and technologies.
 - Human-centered MIR: user behavior analysis and mining, user modeling; human-computer interaction; music interfaces and services; personalization; user-centered evaluation.
 - Computational musicology: mathematical music theory; systematic musicology; digital musicology.
-- Applications: digital libraries and archives; music retrieval systems; music recommendation and playlist generation; music and health, well-being and therapy; music training and education; music composition, performance, and production; music videos, multimodal music systems; gaming, augmented/virtual reality; music heritage and sustainability; business and marketing.
+- Applications: digital libraries and archives; music retrieval systems; music recommendation and playlist generation; music and health, well-being and therapy; music training and education; music composition, performance, and production; music videos, multimodal music systems; gaming, augmented/virtual reality; music heritage and sustainability; business and marketing. -->
 
 ---
 
@@ -59,7 +69,6 @@ All submissions must comply to the following guidelines:
 - Length (2+1): two pages (maximum) of content plus one optional page for bibliography only.
 - Templates: make sure to use the latest template: <a href="/assets/ExtendedAbstractTemplateForWiSSAP23.zip" target="_blank" class="btn btn-primary custom-button">Zip</a> / <a href="https://www.overleaf.com/read/nyvqxznrkrry" target="_blank" class="btn btn-primary custom-button">Overleaf</a> , for WiSSAP EA (available for Latex). Submissions must be in PDF format.
 - Submission system: please submit the extended abstract to the Microsoft CMT site. <a href="https://cmt3.research.microsoft.com/WiSSAP2023/" target="_blank" class="btn btn-primary custom-button">Submit Here</a>
-
 <!-- (Click [here](https://cmt3.research.microsoft.com/WiSSAP2023/) -> Author console -> Create new submission) -->
 - Note that we allow authors to edit their submissions until the camera-ready deadline.
 - Supplementary material (optional): authors can also submit a demo video (5 minutes or less, mp4, h264 codec, 100MB or less, with closed captions).

@@ -209,16 +209,25 @@ WiSSAP 23 will aim at fostering collaboration between researchers, developers, e
 <p>We invite submissions of ongoing studies, analytical literature survey and published works, on topics including but not limited to:</p>
 
 <ul>
-  <li>MIR fundamentals and methodology: music signal processing; symbolic music processing; metadata, tags, linked data, and semantic web; lyrics and other textual data; web mining, and natural language processing; multimodality.</li>
-  <li>Knowledge-driven approaches to MIR: representations of music; computational music theory and musicology; cognitive MIR; machine learning/artificial intelligence for music; computational ethnomusicology.</li>
-  <li>Musical features and properties: melody and motives; harmony, chords and tonality; rhythm, beat, tempo; structure, segmentation, and form; representations of music; timbre, instrumentation, and singing voice; musical style and genre; musical affect, emotion and mood; expression and performative aspects of music.</li>
-  <li>MIR tasks: sound source separation; music transcription and annotation; music generation; optical music recognition; alignment, synchronization, and score following; music summarization; music synthesis and transformation; fingerprinting; automatic classification; indexing and querying; pattern matching and detection; similarity metrics.</li>
-  <li>Evaluation, datasets, and reproducibility: evaluation methodology; evaluation metrics; novel datasets and use cases; annotation protocols; reproducibility.</li>
-  <li>Philosophical and ethical discussions: philosophical and methodological foundations; legal and societal aspects of MIR; ethical issues related to designing and implementing MIR tools and technologies.</li>
-  <li>Human-centered MIR: user behavior analysis and mining, user modeling; human-computer interaction; music interfaces and services; personalization; user-centered evaluation.</li>
-  <li>Computational musicology: mathematical music theory; systematic musicology; digital musicology.</li>
-  <li>Applications: digital libraries and archives; music retrieval systems; music recommendation and playlist generation; music and health, well-being and therapy; music training and education; music composition, performance, and production; music videos, multimodal music systems; gaming, augmented/virtual reality; music heritage and sustainability; business and marketing.</li>
+  <li>Music Information Retrieval</li>
+  <li>Audio Event Detection</li>
+  <li>Content based audio retrieval</li>
+  <li>Multi modal information retrieval</li>
+  <li>Computational Musicology</li>
+  <li>Music Generation</li>
+  <li>Intelligent Musical Instrument</li>
+  <li>Audio and Speech processing</li>
 </ul>
+
+<!-- - MIR fundamentals and methodology: music signal processing; symbolic music processing; metadata, tags, linked data, and semantic web; lyrics and other textual data; web mining, and natural language processing; multimodality.
+- Knowledge-driven approaches to MIR: representations of music; computational music theory and musicology; cognitive MIR; machine learning/artificial intelligence for music; computational ethnomusicology.
+- Musical features and properties: melody and motives; harmony, chords and tonality; rhythm, beat, tempo; structure, segmentation, and form; representations of music; timbre, instrumentation, and singing voice; musical style and genre; musical affect, emotion and mood; expression and performative aspects of music.
+- MIR tasks: sound source separation; music transcription and annotation; music generation; optical music recognition; alignment, synchronization, and score following; music summarization; music synthesis and transformation; fingerprinting; automatic classification; indexing and querying; pattern matching and detection; similarity metrics.
+- Evaluation, datasets, and reproducibility: evaluation methodology; evaluation metrics; novel datasets and use cases; annotation protocols; reproducibility.
+- Philosophical and ethical discussions: philosophical and methodological foundations; legal and societal aspects of MIR; ethical issues related to designing and implementing MIR tools and technologies.
+- Human-centered MIR: user behavior analysis and mining, user modeling; human-computer interaction; music interfaces and services; personalization; user-centered evaluation.
+- Computational musicology: mathematical music theory; systematic musicology; digital musicology.
+- Applications: digital libraries and archives; music retrieval systems; music recommendation and playlist generation; music and health, well-being and therapy; music training and education; music composition, performance, and production; music videos, multimodal music systems; gaming, augmented/virtual reality; music heritage and sustainability; business and marketing. -->
 
 <hr />
 
@@ -234,11 +243,8 @@ The accepted abstracts <strong>must be</strong> presented by at least one author
 <ul>
   <li>Length (2+1): two pages (maximum) of content plus one optional page for bibliography only.</li>
   <li>Templates: make sure to use the latest template: <a href="/assets/ExtendedAbstractTemplateForWiSSAP23.zip" target="_blank" class="btn btn-primary custom-button">Zip</a> / <a href="https://www.overleaf.com/read/nyvqxznrkrry" target="_blank" class="btn btn-primary custom-button">Overleaf</a> , for WiSSAP EA (available for Latex). Submissions must be in PDF format.</li>
-  <li>Submission system: please submit the extended abstract to the Microsoft CMT site. <a href="https://cmt3.research.microsoft.com/WiSSAP2023/" target="_blank" class="btn btn-primary custom-button">Submit Here</a></li>
-</ul>
-
-<!-- (Click [here](https://cmt3.research.microsoft.com/WiSSAP2023/) -> Author console -> Create new submission) -->
-<ul>
+  <li>Submission system: please submit the extended abstract to the Microsoft CMT site. <a href="https://cmt3.research.microsoft.com/WiSSAP2023/" target="_blank" class="btn btn-primary custom-button">Submit Here</a>
+<!-- (Click [here](https://cmt3.research.microsoft.com/WiSSAP2023/) -> Author console -> Create new submission) --></li>
   <li>Note that we allow authors to edit their submissions until the camera-ready deadline.</li>
   <li>Supplementary material (optional): authors can also submit a demo video (5 minutes or less, mp4, h264 codec, 100MB or less, with closed captions).</li>
 </ul>
@@ -264,13 +270,102 @@ The accepted abstracts <strong>must be</strong> presented by at least one author
         </div>
     </section>
 
-        <!-- Footer -->
+    <style>
+    /* Add this CSS in your style sheet or inside the head tag in a style block */
+    footer {
+        padding-top: 20px; /* Add some padding to improve visual separation */
+        max-width: 1500px;
+        margin: 0 auto;
+    }
+
+    .footer-content {
+        border-top: 1px solid #ddd; /* Adjust the color and thickness as needed */
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .logo-left {
+        flex: 1;
+        text-align: center;
+        margin-top: 55px;
+    }
+
+    .logo-right {
+        flex: 1;
+        text-align: center;
+        margin-top: 85px;
+    }
+
+    .copyright {
+        flex: 1;
+        text-align: center;
+        margin-top: 90px;
+    }
+</style>
+
+<!-- Footer -->
+<footer>
+    <div class="container text-center" style="margin-top: 50px;">
+        <div class="footer-content">
+            <div class="logo-left">
+                <img src="images/institutions-logos/IITK.png" alt="IITK Logo" width="100px">
+            </div>
+            <div class="copyright">
+                <p>&copy; 2023 MADHAV Lab</p>
+            </div>
+            <div class="logo-right">
+                <img src="images/institutions-logos/madhavlab.png" alt="Madhav_lab Logo" width="150px">
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+<!-- 
+<style>
+    /* Add this CSS in your style sheet or inside the head tag in a style block */
+    .footer-content {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .logo {
+        flex: 1;
+        text-align: center;
+    }
+    
+    .logo-right {
+        margin-top: 5px; /* Adjust the number of pixels as desired */
+    }
+    
+    .logo-left {
+        margin-top: -5px; /* Adjust the number of pixels as desired */
+    }
+    
+    /* Additional styling for copyright text */
+    p {
+        margin: 0; /* To remove default margin of the <p> tag */
+        font-size: 14px; /* Adjust the font size as needed */
+    }
+    
+    </style>
+    
     <footer>
         <div class="container text-center" style="margin-top: 100px;">
-            <p>Copyright &copy; 2023 MADHAV Lab</p>
+            <div class="footer-content">
+                <div class="logo logo-left">
+                    <img src="images/institutions-logos/iitk_300.png" alt="IITK Logo" width="100px">
+                </div>
+                <div class="copyright">
+                    <p>&copy; 2023 MADHAV Lab</p>
+                </div>
+                <div class="logo logo-right">
+                    <img src="images/institutions-logos/madhavlab.png" alt="Madhav_lab Logo" width="100px">
+                </div>
+            </div>
         </div>
     </footer>
-
+     -->
        <!-- jQuery Version 1.11.0 -->
    <script src="/libs/jquery.js"></script>
 

@@ -527,9 +527,9 @@ body {
 .fadein {
     position: relative;
     overflow: hidden;
-    width: 100%;
+    width: 115%;
     height: 100%;
-    max-width: 400px;
+    max-width: 1000px;
     margin: auto;
 }
 
@@ -609,9 +609,9 @@ body {
 
 .fadein-4 img {
     -webkit-animation-name: fade-4;
-    -webkit-animation-duration: 60s;
+    -webkit-animation-duration: 24s;
     animation-name: fade-4;
-    animation-duration: 60s;
+    animation-duration: 24s;
 }
 
 @-webkit-keyframes fade-4 {
