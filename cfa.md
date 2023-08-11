@@ -59,8 +59,10 @@ We invite submissions of ongoing studies, analytical literature survey and publi
 
 ## Submission
 
-Authors need to submit a (2+1)- page extended abstract to showcase their work. The **submission can be** either an ongoing research project or an already published work. It will be reviewed by the technical program committe and a decision will be made on the acceptance of the submission. The type of presentation for the accepted abstracts, i.e. oral or poster shall be decided thereafter. 
-The accepted abstracts **must be** presented by at least one author as a poster during the poster/oral session. Authors’ registration to the winter school is mandatory but can be completed after the notification of acceptance. Note that the extended abstract is not a conference paper and will not be part of any proceedings.
+Authors need to submit a (2+1)- page extended abstract to showcase their work. The **submission can be** either an ongoing research project or a recently published work. It will be reviewed by the technical program committe and a decision will be made on the acceptance of the submission. 
+The accepted abstracts **must be** presented by at least one author as a 3-5 minute flash presentation followed by poster discussions during the winter school.
+<!-- The type of presentation for the accepted abstracts, i.e. oral or poster shall be decided thereafter.  -->
+Authors’ registration to the winter school is mandatory but can be completed after the notification of acceptance. Note that the extended abstract is not a conference paper and will not be part of any proceedings.
 
 ### Guidelines
 
@@ -77,8 +79,8 @@ All submissions must comply to the following guidelines:
 
 - 11:59 PM AOE (Anywhere-on-Earth), Tuesday 10th October 2023 - Abstract Submission Deadline
 - 30th October 2023 - Results announced
-- 15th November 2023 - Registration of Authors
-- 5th December 2023 - Camera Ready Submission Deadline
+- 10th November 2023 - Registration of Authors
+- 30th November 2023 - Camera Ready Submission Deadline
 
 ---
 

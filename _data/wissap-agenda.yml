@@ -14,24 +14,24 @@
       subtitle: ""
       time: 11:00 - 11:30
       height: 1-3
-    - title: Session
-      subtitle: Introduction to MIR
+    - title: Vinoo Alluri
+      subtitle: Music Research in Big Data Era
       time: 11:30 - 1:00
       height: 2
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
       subtitle: ""
       time: 1:00 - 2:00
       height: 1.5
-    - title: Session
-      subtitle: "TBD"
+    - title: MADHAV Lab 
+      subtitle: "Python for MIR: Hands On"
       time: 2:00 - 3:30
       height: 1.5
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       subtitle: ""
       time: 3:30 - 4:00
       height: 1-8
-    - title: Session
-      subtitle: "TBD"
+    - title: Gowtham Prabhakar
+      subtitle: Human Computer Interaction for Music
       time: 4:00 - 5:30
       height: 1.5
     - title: Music Program

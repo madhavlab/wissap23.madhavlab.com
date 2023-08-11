@@ -1,12 +1,24 @@
 - name: George Tzanetakis
   title: University of Victoria
+  column: "1"
   image: images/speakers-wissap-2023-600x600/george-t.jpg
 
 - name: Zhiyao Duan
   title: University of Rochester
+  column: "1"
   image: images/speakers-wissap-2023-600x600/zhiyao_duan.jpeg
 
 - name: Andrew McPherson
   title: Imperial College London
-  image: images/speakers-wissap-2023-600x600/andrew-m.jpeg
+  column: "1"
+  image: images/speakers-wissap-2023-600x600/andrew-m.png
 
+- name: Vinoo Alluri
+  title: IIIT Hyderabad
+  column: "2"
+  image: images/speakers-wissap-2023-600x600/vinoo_alluri.jpeg
+
+- name: Gowdham Prabhakar
+  title: IIT Kanpur
+  column: "2"
+  image: images/speakers-wissap-2023-600x600/gowtham.jpeg
