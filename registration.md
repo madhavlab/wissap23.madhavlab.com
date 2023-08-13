@@ -31,7 +31,7 @@ permalink: /registration
 
 ## Registration process in short
 
-1) Complete the payment process (before 1st October) as per your applicant status [here](#costs) by clicking on <a href="https://iitk-my.sharepoint.com/:w:/g/personal/sagard_iitk_ac_in/EWVL7nm3FKtAqh2W2K-LReMBju6g_H_J-ualK_EN0RSn7w?e=M8udQz" target="_blank" class="btn btn-primary custom-button">payment page</a>.
+1) Complete the payment process as per your applicant status [here](#costs) by clicking on <a href="https://iitk-my.sharepoint.com/:w:/g/personal/sagard_iitk_ac_in/EWVL7nm3FKtAqh2W2K-LReMBju6g_H_J-ualK_EN0RSn7w?e=M8udQz" target="_blank" class="btn btn-primary custom-button">payment page</a>.
 
 2) Fill up the <a href="https://forms.office.com/r/ydZGfCW4uB" target="_blank" class="btn btn-primary custom-button">registration form</a> and share the payment transaction id.
 
@@ -48,10 +48,10 @@ All the information about the registration process can be found below on this pa
 <!-- The application process closes on ~~10th September 2023 11:59PM AOE (Anywhere on Earth)~~ 9:59 PM UTC-0 on Tusday 11th April 2023. -->
 Please read the information below and fill in the forms linked on this page.
 
-The application process closes on 1st October 2023 11:59PM AOE (Anywhere on Earth). Please note that only limited seats are available and preference to register and attend shall be given to postgraduate research students, senior undergraduates, etc. 
+Note that only limited seats are available and preference to register and attend shall be given to postgraduate research students, senior undergraduates, etc. 
 The lectures and tutorials in the school will be targetted at the audience with a familiarity of Machine Learning at the level of an early-stage graduate student, but don’t let this statement stop you from applying if you’re interested in attending!
 
-The registration fee varies as per your professional status and affiliation. For more details see [here](#costs). Also note that the discounted rate is available only if you register before the **early-bird deadline** (1st September).
+The registration fee varies as per your professional status and affiliation. For more details see [here](#costs). Also note that the discounted rate is available only if you register before the **early-bird deadline** (15th September).
 
 If this page doesn’t include all the information you need, please send your questions to [{{ site.email }}](mailto:{{ site.email }}), we will answer as soon as possible and add the missing information to the Frequently Asked Question section at the bottom of this page.
 
@@ -60,14 +60,14 @@ If this page doesn’t include all the information you need, please send your qu
 
 <!-- - ~~11:59 PM AOE (Anywhere-on-Earth) Saturday 8th April 2023~~ 9:59 PM UTC-0, Tusday 11th April 2023 - Registration closes -->
 - Saturday 12th August 2023 - Registration and Payment opens
-- 11:59 PM AOE (Anywhere-on-Earth), Friday 1st September 2023 - Early Bird Registration and Payment closes
-- 11:59 PM AOE (Anywhere-on-Earth), Friday 1st October 2023 - Late Registration and Payment closes
+- 11:59 PM AOE (Anywhere-on-Earth), Friday 15th September 2023 - Early Bird Registration and Payment closes
+- 11:59 PM AOE (Anywhere-on-Earth), Friday 15th October 2023 - Late Registration and Payment closes
 - 18th December 2023 - 21th December 2023 - WiSSAP 2023
 
 
 ## Costs
 
-The selected candidates shall have to pay the registration fee as per the following rates. Please note that this amount **covers** lunch and coffee breaks every day, welcome reception, banquet dinner and other event-related expenses. Other than that, it does **not** include any substantial food provision (i.e., breakfast or dinner). Estimated cost for a standard meal in any of the student halls ranges between INR 60 to INR 75 as per the day-menu.
+The selected candidates shall have to pay the registration fee as per the following rates. Please note that this amount **covers** lunch and coffee breaks every day, welcome reception, and other event-related expenses. Other than that, it does **not** include any substantial food provision (i.e., breakfast or dinner). Estimated cost for a standard meal in any of the student halls ranges between INR 60 to INR 75 as per the day-menu.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin-left:auto;margin-right:auto;}
@@ -122,10 +122,7 @@ The selected candidates shall have to pay the registration fee as per the follow
 We will fill this section with questions we receive and our answers.
 
 Q: I could not register/pay by the due date because of [XYZ] reason. Can I get an exception and register/pay after the specified deadline.<br/>
-**A: The deadlines are strit and hence we cannot support any extension to the same. We regret for the inconvinience.**
-
-Q: Can I receive an invoice for the registration fee?<br/>
-**A: Yes, when paying the registration fee through the online platform, select "I want to receive an invoice" and provide the required information.**
+**A: The deadlines are strict and hence we cannot support any extension to the same. We regret for the inconvinience.**
 
 Q: How can I get an accomodation?<br/>
 **A: Accomodation will be provided on/near campus. Please note that this is not covered in the registration. More details shall be provided soon.**

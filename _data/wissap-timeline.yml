@@ -1,17 +1,17 @@
 - date: 12 August
   description: Registration open (<a href="/registration">details here</a>)
 
-- date: 28 September
+- date: 25 September
   description: Competition Registration Deadline
 
 - date: 1 October
-  description: Registration closes
-
-- date: 10 October
   description: Abstract Submission Deadline
 
-- date: 30 October
-  description: Abstract and Competition Results Announced
+- date: 25 October
+  description: Abstract Notification of Acceptance
+
+- date: 1 November
+  description: Competition Results Announcement
 
 - date: 18 December - 21 December
   description: <span class="logo"><span class="main-name">WiSSAP<span class="superscript"></span></span> <span class="sub-name">2023</span></span>

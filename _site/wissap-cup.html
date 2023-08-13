@@ -200,40 +200,46 @@
 
 <h2 id="challenges">Challenges</h2>
 
-<h3 id="1-music-search-query-by-example">1. <a href="">Music Search: Query by Example</a></h3>
+<h3 id="1-music-search-query-by-example">1. <a href="/wissap-cup" target="_blank">Music Search: Query by Example</a></h3>
 
-<p>Finding perceptually similar audio in a massive audio corpus is computationally and memory expensive. 
-Audio fingerprinting is a technique that derives a content-based audio summary and links it with similar audio fragments in the database. It allows for an efficient and quick search against other audio fragments.
-The task is to develop method to search a given audio query in a large audio database. The challenge in this task is to efficiently find the best match corresponding to highly distorted query recordings.</p>
+<p>Finding the same or similar audio in a massive audio corpus is computationally and memory expensive. 
+Audio fingerprinting is a technique to index audio datasets for efficient retrieval. Retrieval entails matching the database entries with a given query audio. 
+ <!-- that derives a content-based audio summary and links it with similar audio fragments in the database. It allows for an efficient and quick search against other audio fragments. -->
+The task in this challenge is to develop method to index a large audio database and search a given audio query efficiently. The query could be a noisy and distorted segment from one of the audios in the database.</p>
 
-<h3 id="2-music-search-query-by-humming">2. <a href="">Music Search: Query by Humming</a></h3>
-<p>Query-by-humming is a Music Information Retrieval task that enables users to search for songs by humming a tune. This task is challenging due to several factors, including the variability of input signals from a person humming or singing, differences in tempo between recordings and queries, and background noise in the pieces being matched.
-The user hums a query which is searched over a database of songs. A ranking is performed over the set of matches detected in the search database to determine the song-id of query.</p>
+<h3 id="2-music-search-query-by-humming">2. <a href="/wissap-cup" target="_blank">Music Search: Query by Humming</a></h3>
+<p>Query-by-humming means to search for a song by humming its tune. 
+A general approach is to extract pitch information from each audio in the database and match it efficiently with the pitch information extracted from the query.
+This task is challenging due to several factors, including the variability of input signals from a person humming or singing, differences in tempo between recordings and queries, and background instruments/noise in the pieces being matched.
+The algorithms are evaluated using measures such as hit rate.</p>
 
 <h2 id="timeline">Timeline</h2>
 
 <ul>
   <li>Saturday 12th August 2023 - Registration of Teams begins (Link- <a href="https://forms.office.com/r/dj3g21u0nh">here</a>)</li>
-  <li>18th August 2023 - Release Dataset and Baseline</li>
-  <li>28th September 2023 - Registration of Teams closes</li>
-  <li>20th October 2023 - Test Set Release</li>
-  <li>25th October 2023 - Final Submission of Test Results and 1-page report on the method used</li>
-  <li>30th October 2023 - Results Announced and Invitations to Top Teams</li>
+  <li>18th August 2023 - Release Development Dataset</li>
+  <li>25th September 2023 - Registration of Teams closes</li>
+  <li>25th October 2023 - Test Set Release</li>
+  <li>29th October 2023 - Final Submission of Test Results and 1-page report on the method used</li>
+  <li>1st November 2023 - Results Announced and Invitations to Top Teams</li>
   <li>18th December 2023 - 21th December 2023 - WiSSAP 2023</li>
 </ul>
 
 <h2 id="guidelines">Guidelines</h2>
 
 <ul>
-  <li>Registration of teams for either of the two challenges <strong>starts</strong> on August 5th.</li>
+  <li>Registration of teams for either/both of the two challenges <strong>starts</strong> on August 12.</li>
   <li>Each team must have <strong>no more</strong> than 2 participants.</li>
   <li>The competitions will take place on <strong>Kaggle</strong>. Kindly ensure to sign up on Kaggle before registration.</li>
-  <li>After the <strong>release</strong> of the <strong>development dataset</strong> and <strong>baseline</strong> on August 10, the teams can start working on the problem. Participants are <strong>still allowed</strong> to register their teams until August 25th.</li>
-  <li>The <strong>end</strong> of the <strong>development phase</strong> and <strong>release of test set</strong> will be on October 10th.</li>
+  <li>After the <strong>release</strong> of the <strong>development dataset</strong> and/or <strong>baseline</strong> on August 18, the teams can start working on the problem. Participants are <strong>still allowed</strong> to register their teams until September 25.</li>
+  <li>The <strong>end</strong> of the <strong>development phase</strong> and <strong>release of test set</strong> will be on October 25th.</li>
   <li>Every team is expected to record their <strong>final results</strong> (test set inference, etc.) and submit them along with a <strong>1-page manuscript</strong> outlining the method developed.</li>
   <li>There are <strong>restrictions</strong> on the scale/size of the method/model, as mentioned in specific task guidelines.</li>
   <li>Submissions adhering to all competition policies shall be <strong>ranked</strong> based on a task-specific metric, and the <strong>top 3 teams</strong> shall be <strong>invited</strong> for a <strong>live (in-person) one-day hackathon</strong> in the winter-school program.</li>
 </ul>
+
+<h2 id="submission">Submission</h2>
+<p>The teams are first required to register themselves by clicking the link below. The submission guidelines for each of the challenges are mentioned on their individual pages.</p>
 
 <p style="text-align: center;">
 <a href="https://forms.office.com/r/dj3g21u0nh" target="_blank" class="btn btn-primary custom-button">Register Now</a>

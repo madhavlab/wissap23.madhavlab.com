@@ -1,9 +1,9 @@
 - name: ISMIR India
   logo: ./images/sponsors/ismir_logo.png
   height: "110"
-  url: https://iitk.ac.in/
+  url: https://ismir.net
 
 - name: IndSCA
   logo: ./images/sponsors/indsca_logo.png
   height: "140"
-  url: https://madhavlab.github.io/
+  url: https://indsca.web.app/about
