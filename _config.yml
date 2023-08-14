@@ -68,8 +68,8 @@ navigation:
     - name: "WiSSAP Cup"
       url: "wissap-cup"
 
-  - name: "/ Agenda"
-    url: "#agenda"
+  - name: "/ Schedule"
+    url: "#schedule"
 
   - name: "/ Venue"
     url: "#venue"

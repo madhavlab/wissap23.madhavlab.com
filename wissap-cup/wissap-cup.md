@@ -28,7 +28,7 @@ The 16th Winter School on Audio and Speech Processing 2023 is pleased to announc
 
 ## Challenges
 
-### 1. <a href="/wissap-cup" target="_blank">Music Search: Query by Example</a>
+### 1. <a href="/wissap-cup/qbe" target="_blank">Music Search: Query by Example</a>
 
 Finding the same or similar audio in a massive audio corpus is computationally and memory expensive. 
 Audio fingerprinting is a technique to index audio datasets for efficient retrieval. Retrieval entails matching the database entries with a given query audio. 

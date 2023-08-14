@@ -52,6 +52,7 @@ Note that only limited seats are available and preference to register and attend
 The lectures and tutorials in the school will be targetted at the audience with a familiarity of Machine Learning at the level of an early-stage graduate student, but don’t let this statement stop you from applying if you’re interested in attending!
 
 The registration fee varies as per your professional status and affiliation. For more details see [here](#costs). Also note that the discounted rate is available only if you register before the **early-bird deadline** (15th September).
+The organizing committee has the rights to reject or cancel the registration of any participant.
 
 If this page doesn’t include all the information you need, please send your questions to [{{ site.email }}](mailto:{{ site.email }}), we will answer as soon as possible and add the missing information to the Frequently Asked Question section at the bottom of this page.
 
@@ -82,8 +83,8 @@ The selected candidates shall have to pay the registration fee as per the follow
 <thead>
   <tr>
     <th class="tg-c3ow"><span style="font-weight:bold">Category</span></th>
-    <th class="tg-c3ow"><span style="font-weight:bold">Early Bird (Before 1st September)</span></th>
-    <th class="tg-c3ow"><span style="font-weight:bold">Late Registration (Post 1st September)</span></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">Early Bird (Before 15th September)</span></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">Late Registration (Post 15th September)</span></th>
   </tr>
 </thead>
 <tbody>
