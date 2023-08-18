@@ -71,12 +71,12 @@ navigation:
   - name: "/ Schedule"
     url: "#schedule"
 
-  - name: "/ Venue"
-    url: "#venue"
-
   - name: "/ Organizers"
     url: "#organizers"
 
+  - name: "/ Sponsors"
+    url: "#sponsors"
+ß
 
 # Defaults for different pages
 defaults:
