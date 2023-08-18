@@ -41,6 +41,11 @@
   webpage: https://madhavlab.github.io/team/jsuraj
   image: images/core-team/jsuraj.jpeg
 
+- name: Abhishek Rai
+  title: Co- Event Head
+  webpage: https://madhavlab.github.io/team/abhirai
+  image: images/core-team/abhirai.jpeg
+
 - name: Akshay Raina
   title: Webmaster and Abstract
   webpage: https://madhavlab.github.io/team/akshayr
@@ -50,6 +55,16 @@
   title: Competition
   webpage: https://madhavlab.github.io/team/kavyars
   image: images/core-team/kavyars.jpeg
+
+- name: Anup Singh
+  title: Competition
+  webpage: https://madhavlab.github.io/team/sanup
+  image: images/core-team/sanup.jpeg
+
+- name: Adhiraj Banerjee
+  title: Competition
+  webpage: https://madhavlab.github.io/team/adhiraj
+  image: images/core-team/adhiraj.jpeg
 
 - name: Sumit Kumar
   title: Logistics Coordinator

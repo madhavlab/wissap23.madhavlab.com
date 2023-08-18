@@ -10,9 +10,10 @@ The task in this challenge is to develop method to index a large audio database 
 
 **Task**: Given a monophonic query q, the goal is to search for the top 5 similar matches in the reference database. The song-id of the query is identified as the `song_id` of the best match retrieved from the database.
 
+
 ## Guidelines
 
-- The participating teams are required to train a system such that it is able to search for the **top- 5 best matches** in a reference database.
+- The participating teams are required to train a model such that it is able to search for the **top- 5 matches** in a reference database.
 - The training set consists of ~8K audio (music) files of nearly 30s each. The test set consists of ~30K audio (music) files. 
 - An audio chunk from nearly 100 randomly chosen files from the test set shall be fed into the system, which is expected to return the `file_ids` of the top-5 best matched files in the test set.
 - The aim should be to achieve robust embeddings given an audio chunk, such that it is insensitive to noise and distortions. For generalization, the training set also consists of some noisy and distorted audio recordings.
@@ -30,6 +31,14 @@ The task in this challenge is to develop method to index a large audio database 
 - Submission via Kaggle must be in a `.csv format` with first column representing the `query_filename` and column 2 through column 6 representing `song_id ` of the top-5 most similar matches in the reference database. 
 - Each team can submit for a maximum of 3 times per day, until the release of the test set, after which the latest submission shall be considered as the team’s final submission. 
 - Detailed instructions on how to submit shall be shared via a video tutorial before the submission begins.
+
+
+1. model train for rep learning
+2. dbs: 
+    1. fma_small (8K music files) for training, fma_med (30K music files) for test (building fingerprint database). 
+    2. noises and rirs (MUSAN)
+3. build search system: input: .wav file output: song id, time offset
+4. metric: does a song id match (Recall)? if yes, is the retrieved time offset differernce is within +-0.1s? MRR??
 
 ## FAQ
 
