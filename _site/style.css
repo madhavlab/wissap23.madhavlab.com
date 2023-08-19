@@ -519,6 +519,9 @@ body {
 .width-100 {
     width: 100%;
 }
+.width-score {
+    width: 30%;
+}
 
 .width-max-400px {
     max-width: 400px;

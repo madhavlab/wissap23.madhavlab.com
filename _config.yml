@@ -115,6 +115,7 @@ plugins:
 
 markdown: kramdown
 permalink: pretty
+usemathjax: true
 
 sass:
   style: compressed # possible values: nested expanded compact compressed
