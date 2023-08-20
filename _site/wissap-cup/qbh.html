@@ -186,23 +186,43 @@ Audio fingerprinting is a technique to index audio datasets for efficient retrie
  <!-- that derives a content-based audio summary and links it with similar audio fragments in the database. It allows for an efficient and quick search against other audio fragments. -->
 The task in this challenge is to develop method to index a large audio database and search a given audio query efficiently. The query could be a noisy and distorted segment from one of the audios in the database.</p>
 
-<p><strong>Task</strong>: Given a monophonic query \(q\), we wish to return top-5 similar matches in the search database D. The song-id of the query is determined as the song-id of the most similar sequence in search database D.</p>
+<p><strong>Task</strong>: Given a monophonic humming query \(q\), we wish to retrieve top-5 similar matches in the search database D. The song-id of the query is determined as the song-id of the most similar sequence in search database D. 
+ground truth  MIDI or wav file from user’s humming or singing.</p>
 
 <h2 id="guidelines">Guidelines</h2>
 
 <ul>
-  <li>The participating teams are required to train a model such that it is able to search for top-5 best matches in search database.</li>
-  <li>The training set is the MIR-QBSH (https://www.music-ir.org/mirex/wiki/2020:Query_by_Singing/Humming) that consists of ~4K humming queries of nearly ~10s each corresponding to database of 48 MIDI files. The teams are required to convert the MIDI files to the audio files. The test set consists of ~4000 query files each corresponding to database of 150 + songs.</li>
+  <li>The participating teams are required to train a model such that it is able to retrieve top-5 matches in a search database.
+<!-- - The training set is the MIR-QBSH (https://www.music-ir.org/mirex/wiki/2020:Query_by_Singing/Humming) that consists of ~4K humming queries of nearly ~10s each corresponding to database of 48 MIDI files. The teams are required to convert the MIDI files to the audio files. The test set consists of ~4000 query files each corresponding to database of 150 + songs.  --></li>
   <li>The aim is to build a robust model such that it is insensitive to the noisy and distorted queries.</li>
-  <li>The neural network size is to be restricted to be no more than 3M.</li>
+  <li><strong>Queries</strong>: Human Singing/ humming audio snippets</li>
+  <li><strong>Database</strong>:  Ground truth MIDI files and wav files of studio recordings</li>
+  <li><strong>Challenges</strong>: Note, the MIDI files are monophonic, while the wav files may be polyphonic. This makes the search very difficult. In addition, the queries are imitations of the original song. Hence, they can have variation in pitch and tempo.</li>
+  <li><strong>Training Dataset</strong>:   The participating teams may use MIR-QbSH, IOACAS-QbH, MIR-1K, fma-small dataset for training their models.</li>
+  <li>MIR-QbSH dataset is a classic QbH dataset with 4800 queries and 48 ground truth MIDI. All queries are from the beginning of references. IOACAS-QbH dataset has 759 queries and 298 monophonic ground-truth MIDI files. Unlike MIR-QbSH, the queries may not be at the beginning of references. The participants may use MIR-QbSH or IOACAS-QBH or a combination of two evaluate their models search performance during training.</li>
+  <li>MIR-1K and fma-small consists of studio recordings of 1000 and 8000 songs respectively. The participants may use these two datasets to train their models to learn strong representations. The queries in MIR-QbSH and IOACAS-QbH datasets can be used to adapt their models to the different pitch and tempo variations a humming query may contain, as it is only an imitation of the original song.</li>
+  <li>The links to the datasets are as follows
+    <ul>
+      <li><a href="https://music-ir.org/evaluation/MIREX/data/qbsh/MIR-QBSH-corpus.tar.gz">MIR-QbSH</a></li>
+      <li><a href="https://music-ir.org/evaluation/MIREX/data/qbsh/IOACAS_QBH_Corpus.tar.gz">IOACAS-QbH</a></li>
+      <li><a href="http://mirlab.org/dataset/public/MIR-1K.zip">MIR-1K</a></li>
+      <li><a href="https://os.unil.cloud.switch.ch/fma/fma_small.zip">fma-small</a></li>
+    </ul>
+  </li>
 </ul>
 
 <h3 id="evaluation">Evaluation</h3>
 
 <ul>
-  <li>Each submission shall be evaluated based on the Mean Reciprocal Rank (MRR) on the test set.</li>
-  <li>MRR measures how far down the ranking of the first relevant song is. It is calculated as 1/r where r is the ranking of the first relevant song. If MRR is close to 1, it means relevant results are close to the top of search results (what we want!).  Lower MRRs indicate poor search quality, with the right answer being further down in the search results.</li>
+  <li>Each submission shall be evaulated based on the <a href="https://en.wikipedia.org/wiki/Mean_reciprocal_rank" target="_blank">Mean Reciprocal Rank (MRR)</a> and the consumed time on the test set.</li>
+  <li>MRR measures how far down the ranking the first relevant document is. If MRR is close to 1, it means relevant results are close to the top of search results - what we want! Lower MRRs indicate poorer search quality, with the right answer farther down in the search results.</li>
+  <li>For all 100 chunks from the test set, the returned top-5 <code class="language-plaintext highlighter-rouge">file_ids</code> in order of the confidence for each shall be matched with the ground truth file_id. The final score will be the mean of the MRR score computed for all such query files.</li>
+  <li>The final score for evaluation will be computed as-</li>
 </ul>
+
+<div align="center">
+<img class="width-score width-max-100px" src="/images/score_qbe.png" />
+</div>
 
 <h2 id="submission">Submission</h2>
 
@@ -211,6 +231,14 @@ The task in this challenge is to develop method to index a large audio database 
   <li>Submission via Kaggle must be in a <code class="language-plaintext highlighter-rouge">.csv format</code> with first column representing the <code class="language-plaintext highlighter-rouge">query_filename</code> and column 2 through column 6 representing <code class="language-plaintext highlighter-rouge">song_id </code> of the top-5 most similar matches in the reference database.</li>
   <li>Each team can submit for a maximum of 3 times per day, until the release of the test set, after which the latest submission shall be considered as the team’s final submission.</li>
   <li>Detailed instructions on how to submit shall be shared via a video tutorial before the submission begins.</li>
+</ul>
+
+<h2 id="references">References</h2>
+
+<ul>
+  <li><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=4518093">Query by humming of midi and audio using locality sensitive hashing</a></li>
+  <li><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=6266272">Query by Humming by Using Locality Sensitive Hashing Based on Combination of Pitch and Note</a></li>
+  <li><a href="https://www.isca-speech.org/archive_v0/Interspeech_2017/pdfs/1590.PDF">A Note Based Query By Humming System using Convolutional Neural Network</a></li>
 </ul>
 
 <h2 id="faq">FAQ</h2>
