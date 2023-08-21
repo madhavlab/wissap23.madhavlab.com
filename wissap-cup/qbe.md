@@ -4,13 +4,12 @@ title: "02: Music Search: Query by Example"
 permalink: /wissap-cup/qbe
 ---
 
-Finding the same or similar audio in a massive audio corpus is computationally and memory expensive. 
-Audio fingerprinting is a technique to index audio datasets for efficient retrieval. Retrieval entails matching the database entries with a given query audio. 
-The task in this challenge is to develop method to index a large audio database and search a given audio query efficiently. The query could be a noisy and distorted segment from one of the audios in the database.
+Welcome to the Audio Fingerprinting Competition! 
+Audio fingerprinting is crucial in various applications, such as music identification, content recognition, and copyright enforcement. In this competition, participants will have the opportunity to showcase their expertise in developing innovative algorithms for audio fingerprinting, contributing to the advancement of audio technology.
 
 The goal is to develop accurate and efficient algorithms for audio fingerprinting. Participants' systems must accurately match a query audio clip to the corresponding audio track in a database. This task simulates real-world scenarios where audio queries are possibly distorted by noise and reverberation, and the content needs to be quickly and accurately identified. 
 
-**Task**: Given a monophonic query q, the goal is to search for the top 5 similar matches in the reference database. The song-id of the query is identified as the `song_id` of the best match retrieved from the database.
+**Task**: Participants must create a system capable of identifying the top five matching audio tracks from a reference database. These matches should correspond to a provided monophonic audio query.
 
 **Background**:
 Audio fingerprinting systems mainly consist of two components: 
@@ -49,6 +48,9 @@ The competition database consists of diverse audio tracks spanning various genre
 - Upon registering your team for the challenge via the form on the [WiSSAP Cup](/wissap-cup) page, you will recieve a Kaggle invitation to join the competition.
 - Submission via Kaggle must be in a `.csv format` with first column representing the `query_filename` and column 2 through column 6 representing `song_id ` of the top-5 similar matches in the reference database. 
 - Each team can submit for a maximum of 3 times per day, until the release of the test set, after which the latest submission shall be considered as the team’s final submission. 
+- Once the test set is released, participants are required to submit their algorithms and models along with comprehensive documentation outlining the technical details of their approach. Submissions should include:
+    - A detailed explanation of the fingerprinting algorithm.
+    - The notebook on Kaggle with their system. The developed QBE system should inputs raw audio clip (query, sampled at 16kHz) and output the top-5 identified audio tracks. The Kaggle leaderboard on the test set shall be the final ranking of each participating team.
 - Detailed instructions on how to submit shall be shared via a video tutorial before the submission begins.
 
 ## References
