@@ -118,6 +118,12 @@ The selected candidates shall have to pay the registration fee as per the follow
 
 <br>
 
+## Accomodation
+Accomodation during the winter school period (18 Dec - 21 Dec) shall be provided for registrered participants in the institute halls at nominal charges. For more details click on the button below.
+
+<a href="/accomodation" target="_blank" class="btn btn-primary custom-button">Accomodation</a>
+
+
 ## Frequently Asked Questions
 
 We will fill this section with questions we receive and our answers.
@@ -126,7 +132,7 @@ Q: I could not register/pay by the due date because of [XYZ] reason. Can I get a
 **A: The deadlines are strict and hence we cannot support any extension to the same. We regret for the inconvinience.**
 
 Q: How can I get an accomodation?<br/>
-**A: Accomodation will be provided on/near campus. Please note that this is not covered in the registration. More details shall be provided soon.**
+**A: Accomodation will be provided in-campus. Please note that this is not covered in the registration. For more details on the rates and how to get accomodation, click <a href="/accomodation" target="_blank">here</a>.**
 
 Q: Can I get a refund of the registration fee if I'm not able to attend the school?<br/>
 **A: Yes, refunds of the registration fee (minus 18% GST) are possible and will be considered if a justifiable reason is provided (e.g., health issues or unexpected personal circumstances). Refund requests must be submitted no later than 15th November, otherwise, due to the organization costs already incurred (catering and venue services), we will not be able to provide a refund.**
