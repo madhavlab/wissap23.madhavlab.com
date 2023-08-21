@@ -16,11 +16,6 @@ Audio fingerprinting systems mainly consist of two components:
 - Representation Learning: This involves the generation of robust and compact representations, a.k.a. audio fingerprints corresponding to distinct audio segments.
 - Retrieval:  Involves indexing audio fingerprints derived from the reference audio database. This involves a mechanism for efficiently searching for the best match corresponding to a provided audio query. 
 
-## Guidelines
-
-- The participating teams are required to train a model such that it is able to search for the **top- 5 matches** in a reference database.
-- An audio chunk from nearly 100 randomly chosen files from the test set shall be fed into the system, which is expected to return the `file_ids` of the top-5 matched files in the test set.
-- The aim should be to achieve robust embeddings given an audio chunk, such that it is insensitive to noise and distortions. For generalization, the training set also consists of some noisy and distorted audio recordings.
 <!-- - For a better picture, refer to the figure below. -->
 
 #### Database Description
@@ -48,6 +43,7 @@ The competition database consists of diverse audio tracks spanning various genre
 - Upon registering your team for the challenge via the form on the [WiSSAP Cup](/wissap-cup) page, you will recieve a Kaggle invitation to join the competition.
 - Submission via Kaggle must be in a `.csv format` with first column representing the `query_filename` and column 2 through column 6 representing `song_id ` of the top-5 similar matches in the reference database. 
 - Each team can submit for a maximum of 3 times per day, until the release of the test set, after which the latest submission shall be considered as the team’s final submission. 
+- The aim should be to achieve robust embeddings given an audio chunk, such that it is insensitive to noise and distortions. For generalization, the training set also consists of some noisy and distorted audio recordings.
 - Once the test set is released, participants are required to submit their algorithms and models along with comprehensive documentation outlining the technical details of their approach. Submissions should include:
     - A detailed explanation of the fingerprinting algorithm.
     - The notebook on Kaggle with their system. The developed QBE system should inputs raw audio clip (query, sampled at 16kHz) and output the top-5 identified audio tracks. The Kaggle leaderboard on the test set shall be the final ranking of each participating team.
