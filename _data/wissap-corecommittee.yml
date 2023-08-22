@@ -41,10 +41,10 @@
   webpage: https://madhavlab.github.io/team/jsuraj
   image: images/core-team/jsuraj.jpeg
 
-# - name: Abhishek Rai
-#   title: Co- Event Head
-#   webpage: https://madhavlab.github.io/team/abhirai
-#   image: images/core-team/abhirai.jpeg
+- name: Abhishek Rai
+  title: Event Manager
+  webpage: https://madhavlab.github.io/team/abhirai
+  image: images/core-team/abhirai.jpeg
 
 - name: Akshay Raina
   title: Webmaster and Abstract

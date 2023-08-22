@@ -24,7 +24,7 @@ permalink: /wissap-cup
 </style>
 
 
-The 16th Winter School on Audio and Speech Processing 2023 is pleased to announce two challenges for the WiSSAP Cup 2023. More information about each challenge can be found by visiting the challenge page from the links below. The top-3 ranked teams of each challenged will be invited to join the WiSSAP 2023 program in person from 18th – 21st December and compete in a 1-day hackathon. The winners of both challenges shall be felicitated at the closing ceremony of the school.
+The 16th Winter School on Audio and Speech Processing 2023 is pleased to announce two challenges for the WiSSAP Cup 2023. More information about each challenge can be found by visiting the challenge page from the links below. The top-3 ranked teams of each challenge will be invited to join the WiSSAP 2023 program in person from 18th – 21st December. The winners of both challenges shall be felicitated at the closing ceremony of the school.
 
 ## Challenges
 

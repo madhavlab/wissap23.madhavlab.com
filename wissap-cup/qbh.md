@@ -48,7 +48,7 @@ ground truth  MIDI or wav file from user’s humming or singing.
 - Upon registering your team for the challenge via the form on the [WiSSAP Cup](/wissap-cup) page, you will recieve a Kaggle invitation to join the competition.
 - Submission via Kaggle must be in a `.csv format` with first column representing the `query_filename` and column 2 through column 6 representing `song_id ` of the top-5 most similar matches in the reference database. 
 - Each team can submit for a maximum of 3 times per day, until the release of the test set, after which the latest submission shall be considered as the team’s final submission. 
-- Detailed instructions on how to submit shall be shared via a video tutorial before the submission begins.
+- Detailed instructions on how to submit shall be shared via a video tutorial soon.
 
 ## References
 

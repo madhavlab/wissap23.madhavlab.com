@@ -180,9 +180,8 @@
         <div class="row">
             <div class="col-xs-12">
                 <p>Welcome to the Audio Fingerprinting Competition! 
-Audio fingerprinting is crucial in various applications, such as music identification, content recognition, and copyright enforcement. In this competition, participants will have the opportunity to showcase their expertise in developing innovative algorithms for audio fingerprinting, contributing to the advancement of audio technology.</p>
-
-<p>The goal is to develop accurate and efficient algorithms for audio fingerprinting. Participants’ systems must accurately match a query audio clip to the corresponding audio track in a database. This task simulates real-world scenarios where audio queries are possibly distorted by noise and reverberation, and the content needs to be quickly and accurately identified.</p>
+Audio fingerprinting is crucial in various applications, such as music identification, content recognition, and copyright enforcement. In this competition, participants will have the opportunity to showcase their expertise in developing innovative algorithms for audio fingerprinting, contributing to the advancement of audio technology.
+The goal is to develop accurate and efficient algorithms for audio fingerprinting. Participants’ systems must accurately match a query audio clip to the corresponding audio track in a database. This task simulates real-world scenarios where audio queries are possibly distorted by noise and reverberation, and the content needs to be quickly and accurately identified.</p>
 
 <p><strong>Task</strong>: Participants must create a system capable of identifying the top five matching audio tracks from a reference database. These matches should correspond to a provided monophonic audio query.</p>
 
@@ -193,36 +192,30 @@ Audio fingerprinting systems mainly consist of two components:</p>
   <li>Retrieval:  Involves indexing audio fingerprints derived from the reference audio database. This involves a mechanism for efficiently searching for the best match corresponding to a provided audio query.</li>
 </ul>
 
-<h2 id="guidelines">Guidelines</h2>
+<!-- - For a better picture, refer to the figure below. -->
 
-<ul>
-  <li>The participating teams are required to train a model such that it is able to search for the <strong>top- 5 matches</strong> in a reference database.</li>
-  <li>An audio chunk from nearly 100 randomly chosen files from the test set shall be fed into the system, which is expected to return the <code class="language-plaintext highlighter-rouge">file_ids</code> of the top-5 matched files in the test set.</li>
-  <li>The aim should be to achieve robust embeddings given an audio chunk, such that it is insensitive to noise and distortions. For generalization, the training set also consists of some noisy and distorted audio recordings.
-<!-- - For a better picture, refer to the figure below. --></li>
-</ul>
-
-<h4 id="database-description">Database Description</h4>
+<h2 id="database-description">Database Description</h2>
 
 <p>The competition database consists of diverse audio tracks spanning various genres. The database is divided into two main parts:</p>
 
 <ul>
   <li>
-    <p><u>Development database</u>: Participants will have access to a database containing 8000 audio tracks. These tracks are sampled at a rate of 48kHz and each audio clip spans 30 seconds. Alongside the audio tracks, users will also be provided with a collection of noise clips and Room Impulse Responses (RIRs) to facilitate the creation of their representation learning models. Users may split this database into subsets for training and validation purposes. Furthermore, the same database can be employed to assess the performance of retrieval techniques.</p>
+    <p><u>Development database</u>: Participants will have access to a database containing 8000 audio tracks (*.wav). These tracks are sampled at a rate of 48kHz and each audio clip spans 30 seconds. Alongside the audio tracks, users will also be provided with a collection of noise clips and Room Impulse Responses (RIRs) to facilitate the creation of their representation learning models. Users may split this database into subsets for training and validation purposes. Furthermore, the same database can be employed to assess the performance of retrieval techniques.</p>
   </li>
   <li>
     <p><u>Test database</u>: It consists of reference audio tracks (relatively larger) and query audio clips. The reference audio tracks form the basis for generating fingerprints, while the query audio clips are used to evaluate the matching performance of the participants’ systems. The query clips are 2 seconds long and intentionally distorted by adding noise and reverberation at different SNR(dB) levels.</p>
   </li>
 </ul>
 
-<h4 id="evaluation">Evaluation</h4>
+<h2 id="evaluation">Evaluation</h2>
 
 <ul>
-  <li>Each submission shall be evaulated based on the <a href="https://en.wikipedia.org/wiki/Mean_reciprocal_rank" target="_blank">Mean Reciprocal Rank (MRR)</a> and the consumed time on the test set.</li>
-  <li>MRR measures how far down the ranking the first relevant document is. If MRR is close to 1, it means relevant results are close to the top of search results - what we want! Lower MRRs indicate poorer search quality, with the right answer farther down in the search results.</li>
-  <li>For all 100 chunks from the test set, the returned top-5 <code class="language-plaintext highlighter-rouge">file_ids</code> in order of the confidence for each shall be matched with the ground truth file_id. The final score will be the mean of the MRR score computed for all such query files.</li>
-  <li>The final score for evaluation will be computed as-</li>
+  <li>The system will be tested using 100 distorted audio clips (*.wav), each lasting 2 seconds. These clips are deliberately distorted through the addition of noise and reverberation, spanning various distortion levels. The noise may vary from 0dB to 20dB SNR, while the added reverberation ranges from 0.1s to 0.7s <a href="https://en.wikipedia.org/wiki/Reverberation/">t60 level</a>.</li>
+  <li>The system’s performance will be evaluated based on its <a href="https://en.wikipedia.org/wiki/Mean_reciprocal_rank" target="_blank">Mean Reciprocal Rank (MRR)</a>, reflecting its robustness and the retrieval time <strong>T</strong>, which indicates search efficiency. It is essential to note that participants are discouraged from employing brute-force search methodologies to identify the best matches. The final rankings will be determined by a combination of accuracy and speed, with an emphasis on achieving a balance between the two.</li>
 </ul>
+
+<!-- - For all 100 chunks from the test set, the returned top-5 `file_ids` in order of the confidence for each shall be matched with the ground truth file_id. The final score will be the mean of the MRR score computed for all such query files.
+- The final score for evaluation will be computed as- -->
 
 <div align="center">
 <img class="width-score width-max-100px" src="/images/score_qbe.png" />
@@ -233,14 +226,15 @@ Audio fingerprinting systems mainly consist of two components:</p>
 <ul>
   <li>Upon registering your team for the challenge via the form on the <a href="/wissap-cup">WiSSAP Cup</a> page, you will recieve a Kaggle invitation to join the competition.</li>
   <li>Submission via Kaggle must be in a <code class="language-plaintext highlighter-rouge">.csv format</code> with first column representing the <code class="language-plaintext highlighter-rouge">query_filename</code> and column 2 through column 6 representing <code class="language-plaintext highlighter-rouge">song_id </code> of the top-5 similar matches in the reference database.</li>
-  <li>Each team can submit for a maximum of 3 times per day, until the release of the test set, after which the latest submission shall be considered as the team’s final submission.</li>
+  <li>Each team can submit for a maximum of 3 times per day, until the release of the test set, after which the latest submission shall be considered as the team’s final submission. 
+<!-- - The aim should be to achieve robust embeddings given an audio chunk, such that it is insensitive to noise and distortions. For generalization, the training set also consists of some noisy and distorted audio recordings. --></li>
   <li>Once the test set is released, participants are required to submit their algorithms and models along with comprehensive documentation outlining the technical details of their approach. Submissions should include:
     <ul>
       <li>A detailed explanation of the fingerprinting algorithm.</li>
       <li>The notebook on Kaggle with their system. The developed QBE system should inputs raw audio clip (query, sampled at 16kHz) and output the top-5 identified audio tracks. The Kaggle leaderboard on the test set shall be the final ranking of each participating team.</li>
     </ul>
   </li>
-  <li>Detailed instructions on how to submit shall be shared via a video tutorial before the submission begins.</li>
+  <li>Detailed instructions on how to submit shall be shared via a video tutorial soon.</li>
 </ul>
 
 <h2 id="references">References</h2>
