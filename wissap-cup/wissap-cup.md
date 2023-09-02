@@ -62,7 +62,7 @@ The algorithms are evaluated using measures such as hit rate.
 - The **end** of the **development phase** and **release of test set** will be on October 25th.
 - Every team is expected to record their **final results** (test set inference, etc.) and submit them along with a **1-page manuscript** outlining the method developed.
 - There are **restrictions** on the scale/size of the method/model, as mentioned in specific task guidelines.
-- Submissions adhering to all competition policies shall be **ranked** based on a task-specific metric, and the **top 3 teams** shall be **invited** for a **live (in-person) one-day hackathon** in the winter-school program.
+- Submissions adhering to all competition policies shall be **ranked** based on a task-specific metric, and the **top 3 teams** shall be **invited** for **felicitation during the closing ceremony** of the winter-school program.
 
 ## Submission
 The teams are first required to register themselves by clicking the link below. The submission guidelines for each of the challenges are mentioned on their individual pages.

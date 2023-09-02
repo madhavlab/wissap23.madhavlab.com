@@ -68,7 +68,7 @@ If this page doesn’t include all the information you need, please send your qu
 
 ## Costs
 
-The selected candidates shall have to pay the registration fee as per the following rates. Please note that this amount **covers** lunch and coffee breaks every day, welcome reception, and other event-related expenses. Other than that, it does **not** include any substantial food provision (i.e., breakfast or dinner). Estimated cost for a standard meal in any of the student halls ranges between INR 60 to INR 75 as per the day-menu.
+The selected candidates shall have to pay the registration fee as per the following rates. Please note that this amount **covers** lunch and coffee breaks every day, welcome reception, and other event-related expenses. Other than that, it does **not** include any substantial food provision (i.e., breakfast or dinner) or accommodation. Estimated cost for a standard meal in any of the student halls ranges between INR 60 to INR 75 as per the day-menu.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin-left:auto;margin-right:auto;}
@@ -119,7 +119,7 @@ The selected candidates shall have to pay the registration fee as per the follow
 <br>
 
 ## Accomodation
-Accomodation during the winter school period (18 Dec - 21 Dec) shall be provided for registrered participants in the institute halls at nominal charges. For more details click on the button below.
+Accomodation during the winter school period (18 Dec - 21 Dec) shall be provided for registrered participants in the institute halls (subject to availability) at nominal charges. For more details click on the button below.
 
 <a href="/accomodation" target="_blank" class="btn btn-primary custom-button">Accomodation</a>
 
