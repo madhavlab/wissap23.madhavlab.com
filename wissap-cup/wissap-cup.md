@@ -62,7 +62,7 @@ The algorithms are evaluated using measures such as hit rate.
 - The **end** of the **development phase** and **release of test set** will be on October 25th.
 - Every team is expected to record their **final results** (test set inference, etc.) and submit them along with a **1-page manuscript** outlining the method developed.
 - There are **restrictions** on the scale/size of the method/model, as mentioned in specific task guidelines.
-- We have planned **4 tutorials disussing** both challenges, coving topics including Background and Applications of Music Search, Existing Works in the area and much more. Registered candidates will recieve invite to the talks. The schedule is as follows-
+- We have planned **4 tutorials** discussing both challenges, coving topics including Background and Applications of Music Search, Existing Works in the area and much more. Registered candidates will receive invite to the talks. The schedule is as follows-
     - 10th September - Background and Introduction
     - 17th September - Mathematical Foundations
     - 24th September - Existing Methods
