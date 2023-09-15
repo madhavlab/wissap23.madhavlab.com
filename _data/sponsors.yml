@@ -7,3 +7,8 @@
   logo: ./images/sponsors/indsca_logo.png
   height: "140"
   url: https://indsca.web.app/about
+
+- name: SERB
+  logo: ./images/sponsors/serb_logo.png
+  height: "140"
+  url: https://serb.gov.in/

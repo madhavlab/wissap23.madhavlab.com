@@ -37,7 +37,7 @@
   image: images/core-team/sagard.jpeg
 
 - name: Suraj Jaiswal
-  title: Event Head
+  title: Event & Sponsorship Head
   webpage: https://madhavlab.github.io/team/jsuraj
   image: images/core-team/jsuraj.jpeg
 
@@ -66,36 +66,36 @@
   webpage: https://madhavlab.github.io/team/adhiraj
   image: images/core-team/adhiraj.jpeg
 
-- name: Sumit Kumar
-  title: Logistics Coordinator
-  webpage: https://madhavlab.github.io/team/krsumit
-  image: images/core-team/krsumit.jpeg
+# - name: Sumit Kumar
+#   title: Logistics Coordinator
+#   webpage: https://madhavlab.github.io/team/krsumit
+#   image: images/core-team/krsumit.jpeg
 
-- name: Akanksha Singh
-  title: Abstract and Promotion
-  webpage: https://madhavlab.github.io/team/akankss20
-  image: images/core-team/akankss20.jpeg
+# - name: Akanksha Singh
+#   title: Abstract and Promotion
+#   webpage: https://madhavlab.github.io/team/akankss20
+#   image: images/core-team/akankss20.jpeg
 
-- name: Rahul Kodag
-  title: Travel Coordinator
-  webpage: https://madhavlab.github.io/team/rkodag
-  image: images/core-team/rkodag.jpeg
+# - name: Rahul Kodag
+#   title: Travel Coordinator
+#   webpage: https://madhavlab.github.io/team/rkodag
+#   image: images/core-team/rkodag.jpeg
 
-- name: Parampreet Singh
-  title: IT Support
-  webpage: https://madhavlab.github.io/team/params21
-  image: images/core-team/params21.jpg
+# - name: Parampreet Singh
+#   title: IT Support
+#   webpage: https://madhavlab.github.io/team/params21
+#   image: images/core-team/params21.jpg
 
-- name: Raviteja
-  title: Accomodation Coordinator
-  webpage: https://madhavlab.github.io/team/rraja21
-  image: images/core-team/rraja21.jpeg
+# - name: Raviteja
+#   title: Accomodation Coordinator
+#   webpage: https://madhavlab.github.io/team/rraja21
+#   image: images/core-team/rraja21.jpeg
 
 - name: Shiv Narayan
   title: Finance
   webpage: https://madhavlab.github.io/team/shivnp
   image: images/core-team/shivnp.jpg
 
-- name: Kajal
-  title: Music Program
-  image: images/core-team/KajalHeer.png
+# - name: Kajal
+#   title: Music Program
+#   image: images/core-team/KajalHeer.png
