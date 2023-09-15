@@ -51,20 +51,20 @@
   webpage: https://madhavlab.github.io/team/akshayr
   image: images/core-team/akshay.png
 
-- name: Kavya Ranjan Saxena
-  title: Competition
-  webpage: https://madhavlab.github.io/team/kavyars
-  image: images/core-team/kavyars.jpeg
+# - name: Kavya Ranjan Saxena
+#   title: Competition
+#   webpage: https://madhavlab.github.io/team/kavyars
+#   image: images/core-team/kavyars.jpeg
 
-- name: Anup Singh
-  title: Competition
-  webpage: https://madhavlab.github.io/team/sanup
-  image: images/core-team/sanup.jpeg
+# - name: Anup Singh
+#   title: Competition
+#   webpage: https://madhavlab.github.io/team/sanup
+#   image: images/core-team/sanup.jpeg
 
-- name: Adhiraj Banerjee
-  title: Competition
-  webpage: https://madhavlab.github.io/team/adhiraj
-  image: images/core-team/adhiraj.jpeg
+# - name: Adhiraj Banerjee
+#   title: Competition
+#   webpage: https://madhavlab.github.io/team/adhiraj
+#   image: images/core-team/adhiraj.jpeg
 
 # - name: Sumit Kumar
 #   title: Logistics Coordinator
@@ -91,10 +91,10 @@
 #   webpage: https://madhavlab.github.io/team/rraja21
 #   image: images/core-team/rraja21.jpeg
 
-- name: Shiv Narayan
-  title: Finance
-  webpage: https://madhavlab.github.io/team/shivnp
-  image: images/core-team/shivnp.jpg
+# - name: Shiv Narayan
+#   title: Finance
+#   webpage: https://madhavlab.github.io/team/shivnp
+#   image: images/core-team/shivnp.jpg
 
 # - name: Kajal
 #   title: Music Program
