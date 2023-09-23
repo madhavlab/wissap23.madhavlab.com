@@ -10,7 +10,7 @@ Accommodation during the winter school period (18 Dec - 21 Dec) shall be provide
 ## Highlights
 
 - After registering for the WiSSAP 2023, the participants will receive a confirmation mail which will include further details on how to reach IITK, and in-campus accomodation.
-- Standard rooms in the **IIT Kanpur halls** shall be allocated on twin-sharing basis to each participant once they submit the accomodation form (will be mailed after registration) along with the payment. For Academic or Industry Professionals, rooms can be booked in the [IITK Visitors Hostel 2 (Guest House)](https://www.iitk.ac.in/vh/2-uncategorised).
+- Standard rooms in the **IIT Kanpur halls** shall be allocated on twin-sharing basis to each participant once they submit the accomodation form (will be mailed after registration) along with the payment. For Academic or Industry Professionals **only**, rooms can be booked in the [IITK Visitors Hostel 2 (Guest House)](https://www.iitk.ac.in/vh/2-uncategorised).
 - Please see the table below for the price for accomodation during the winter school.
 - Note that the charges for accommodation are **not included** in the registration, and payment is to be made after registering for the school.
 - The allotted facility in student halls shall include bedding (mattress, blanket, etc.) and basic washroom essentials including bucket, mug, etc.
