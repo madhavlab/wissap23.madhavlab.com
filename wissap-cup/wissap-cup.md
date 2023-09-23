@@ -26,6 +26,8 @@ permalink: /wissap-cup
 
 The 16th Winter School on Audio and Speech Processing 2023 is pleased to announce two challenges for the WiSSAP Cup 2023. More information about each challenge can be found by visiting the challenge page from the links below. The top-3 ranked teams of each challenge will be invited to join the WiSSAP 2023 program in person from 18th – 21st December. The winners of both challenges shall be felicitated at the closing ceremony of the school.
 
+[Prof. Vipul Arora](https://vipular.github.io) will also give **4 tutorials** discussing both challenges. <a href="https://forms.office.com/r/QAjrzMJtfn" target="_blank">RSVP</a> now!
+
 ## Challenges
 
 ### 1. <a href="/wissap-cup/qbe" target="_blank">Music Search: Query by Example</a>
@@ -62,7 +64,7 @@ The algorithms are evaluated using measures such as hit rate.
 - The **end** of the **development phase** and **release of test set** will be on October 30th.
 - Every team is expected to record their **final results** (test set inference, etc.) and submit them along with a **1-page manuscript** outlining the method developed.
 - There are **restrictions** on the scale/size of the method/model, as mentioned in specific task guidelines.
-- We have planned **4 tutorials** discussing both challenges, coving topics including Background and Applications of Music Search, Existing Works in the area and much more. Registered candidates will receive invite to the talks. The schedule is as follows-
+- We have planned **4 tutorials** discussing both challenges, coving topics including Background and Applications of Music Search, Existing Works in the area and much more. RSVP'd participants will receive invite to the talks. <a href="https://forms.office.com/r/QAjrzMJtfn" target="_blank">RSVP</a> now! The schedule is as follows-
     - 10th September - Background and Introduction
     - 17th September - Mathematical Foundations
     - 24th September - Existing Methods
