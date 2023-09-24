@@ -45,13 +45,13 @@ All the information about the registration process can be found below on this pa
 
 ## Application instructions
 
-The early bird registration closes on ~~15th September 2023 11:59PM AOE (Anywhere on Earth)~~ 25th September 2023 11:59PM AOE (Anywhere on Earth).
+The early bird registration closes on ~~15th September 2023 11:59PM AOE (Anywhere on Earth)~~ 26th September 2023 11:59PM AOE (Anywhere on Earth).
 Please read the information below and fill in the forms linked on this page.
 
 Note that only limited seats are available and preference to register and attend shall be given to postgraduate research students, senior undergraduates, etc. 
 The lectures and tutorials in the school will be targetted at the audience with a familiarity of Machine Learning at the level of an early-stage graduate student, but don’t let this statement stop you from applying if you’re interested in attending!
 
-The registration fee varies as per your professional status and affiliation. For more details see [here](#costs). Also note that the discounted rate is available only if you register before the **early-bird deadline** (25th September).
+The registration fee varies as per your professional status and affiliation. For more details see [here](#costs). Also note that the discounted rate is available only if you register before the **early-bird deadline** (26th September).
 The organizing committee has the rights to reject or cancel the registration of any participant.
 
 If this page doesn’t include all the information you need, please send your questions to [{{ site.email }}](mailto:{{ site.email }}), we will answer as soon as possible and add the missing information to the Frequently Asked Question section at the bottom of this page.
@@ -61,7 +61,7 @@ If this page doesn’t include all the information you need, please send your qu
 
 <!-- - ~~11:59 PM AOE (Anywhere-on-Earth) Saturday 8th April 2023~~ 9:59 PM UTC-0, Tusday 11th April 2023 - Registration closes -->
 - Saturday 12th August 2023 - Registration and Payment opens
-- ~~15th September 2023~~ Monday 25th September 2023 - Early Bird Registration and Payment closes
+- ~~15th September 2023~~ Monday 26th September 2023 - Early Bird Registration and Payment closes
 <!-- - 11:59 PM AOE (Anywhere-on-Earth), Friday 15th October 2023 - Late Registration and Payment closes -->
 - 18th December 2023 - 21th December 2023 - WiSSAP 2023
 
@@ -83,8 +83,8 @@ The selected candidates shall have to pay the registration fee as per the follow
 <thead>
   <tr>
     <th class="tg-c3ow"><span style="font-weight:bold">Category</span></th>
-    <th class="tg-c3ow"><span style="font-weight:bold">Early Bird (Before 25th September)</span></th>
-    <th class="tg-c3ow"><span style="font-weight:bold">Late Registration (Post 25th September)</span></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">Early Bird (Before 26th September)</span></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">Late Registration (Post 26th September)</span></th>
   </tr>
 </thead>
 <tbody>
