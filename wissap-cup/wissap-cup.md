@@ -49,7 +49,7 @@ The algorithms are evaluated using measures such as hit rate.
 
 - Saturday 12th August 2023 - Registration of Teams begins (Link- [here](https://forms.office.com/r/dj3g21u0nh)) 
 - 5th September 2023 - Release Development Dataset 
-- 25th September 2023 - Registration of Teams closes
+- 30th September 2023 - Registration of Teams closes
 - 30th October 2023 - Test Set Release
 - 3rd November 2023 - Final Submission of Test Results and 1-page report on the method used
 - 6th November 2023 - Results Announced and Invitations to Top Teams
@@ -60,15 +60,15 @@ The algorithms are evaluated using measures such as hit rate.
 - Registration of teams for either/both of the two challenges **starts** on August 12.
 - Each team must have **no more** than 2 participants.
 - The competitions will take place on **Kaggle**. Kindly ensure to sign up on Kaggle before registration. 
-- After the **release** of the **development dataset** and/or **baseline** on September 5, the teams can start working on the problem. Participants are **still allowed** to register their teams until September 25.
+- After the **release** of the **development dataset** and/or **baseline** on September 5, the teams can start working on the problem. Participants are **still allowed** to register their teams until September 30.
 - The **end** of the **development phase** and **release of test set** will be on October 30th.
 - Every team is expected to record their **final results** (test set inference, etc.) and submit them along with a **1-page manuscript** outlining the method developed.
 - There are **restrictions** on the scale/size of the method/model, as mentioned in specific task guidelines.
 - We have planned **4 tutorials** discussing both challenges, coving topics including Background and Applications of Music Search, Existing Works in the area and much more. RSVP'd participants will receive invite to the talks. <a href="https://forms.office.com/r/QAjrzMJtfn" target="_blank">RSVP</a> now! The schedule is as follows-
-    - 10th September - Background and Introduction
-    - 17th September - Mathematical Foundations
-    - 24th September - Existing Methods
-    - 1st October - Ask the Experts
+    - 12th September - Background and Introduction
+    - 26th September - Mathematical Foundations
+    - 8th October - Existing Methods
+    - 15th October - Ask the Experts
 - Submissions adhering to all competition policies shall be **ranked** based on a task-specific metric, and the **top 3 teams** shall be **invited** for **felicitation during the closing ceremony** of the winter-school program.
 
 ## Submission
