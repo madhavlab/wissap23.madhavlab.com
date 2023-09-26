@@ -26,7 +26,7 @@ permalink: /wissap-cup
 
 The 16th Winter School on Audio and Speech Processing 2023 is pleased to announce two challenges for the WiSSAP Cup 2023. More information about each challenge can be found by visiting the challenge page from the links below. The top-3 ranked teams of each challenge will be invited to join the WiSSAP 2023 program in person from 18th – 21st December. The winners of both challenges shall be felicitated at the closing ceremony of the school.
 
-[Prof. Vipul Arora](https://vipular.github.io) will also give **4 tutorials** discussing both challenges. <a href="https://forms.office.com/r/QAjrzMJtfn" target="_blank">RSVP</a> now!
+[Prof. Vipul Arora](https://vipular.github.io) will also give **3 tutorials** discussing both challenges. <a href="https://forms.office.com/r/QAjrzMJtfn" target="_blank">RSVP</a> now!
 
 ## Challenges
 
@@ -64,10 +64,9 @@ The algorithms are evaluated using measures such as hit rate.
 - The **end** of the **development phase** and **release of test set** will be on October 30th.
 - Every team is expected to record their **final results** (test set inference, etc.) and submit them along with a **1-page manuscript** outlining the method developed.
 - There are **restrictions** on the scale/size of the method/model, as mentioned in specific task guidelines.
-- We have planned **4 tutorials** discussing both challenges, coving topics including Background and Applications of Music Search, Existing Works in the area and much more. RSVP'd participants will receive invite to the talks. <a href="https://forms.office.com/r/QAjrzMJtfn" target="_blank">RSVP</a> now! The schedule is as follows-
-    - 12th September - Background and Introduction
-    - 26th September - Mathematical Foundations
-    - 8th October - Existing Methods
+- We have planned **3 tutorials** discussing both challenges, coving topics including Background and Applications of Music Search, Existing Works in the area and much more. RSVP'd participants will receive invite to the talks. <a href="https://forms.office.com/r/QAjrzMJtfn" target="_blank">RSVP</a> now! The schedule is as follows-
+    - 12th September - Background and Introduction (Talk <a href="https://www.youtube.com/watch?v=zCLSS2I3z4s" target="_blank">here</a>. Slides <a href="https://iitk-my.sharepoint.com/:f:/g/personal/akshayr_iitk_ac_in/Esp5qqZpnxpKobrk0PhOpxgBOx0SwjO6z-I5coBVh8GROg" target="_blank">here</a>.)
+    - 2nd October - Mathematical Foundations
     - 15th October - Ask the Experts
 - Submissions adhering to all competition policies shall be **ranked** based on a task-specific metric, and the **top 3 teams** shall be **invited** for **felicitation during the closing ceremony** of the winter-school program.
 
