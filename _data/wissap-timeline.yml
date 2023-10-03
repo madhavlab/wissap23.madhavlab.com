@@ -4,10 +4,10 @@
 - date: 30 September
   description: Competition Registration Deadline
 
-- date: 1 October
+- date: ~~1 October~~ 9 October
   description: Abstract Submission Deadline
 
-- date: 25 October
+- date: 28 October
   description: Abstract Notification of Acceptance
 
 - date: 1 November

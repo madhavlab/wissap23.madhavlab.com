@@ -77,8 +77,8 @@ All submissions must comply to the following guidelines:
 
 ## Timeline
 
-- 11:59 PM AOE (Anywhere-on-Earth), Tuesday 1st October 2023 - Abstract Submission Deadline
-- 25th October 2023 - Results announced
+- 11:59 PM AOE (Anywhere-on-Earth), ~~1st October~~ 9th October 2023- Abstract Submission Deadline
+- 28th October 2023 - Results announced
 - 8th November 2023 - Registration of Authors
 - 25th November 2023 - Camera Ready Submission Deadline
 
