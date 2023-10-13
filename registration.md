@@ -23,11 +23,10 @@ permalink: /registration
 }
 </style>
 
-<span style="color: #FF5356;">Early Bird Registration closing [soon](#application-instructions). Register early to save your seat.</span>
+<span style="color: #FF5356;">Early Bird Registration is now closed (#application-instructions). Late registrations are open.</span>
 
 <!-- <span style="color: #FF5356;">Registration is now closed. We thank all the applicants for their interest in the school. The results of the application process will be announced on 28th April 2023.</span> -->
 ---
-
 
 ## Registration process in short
 
@@ -45,13 +44,13 @@ All the information about the registration process can be found below on this pa
 
 ## Application instructions
 
-The early bird registration closes on ~~15th September 2023 11:59PM AOE (Anywhere on Earth)~~ 26th September 2023 11:59PM AOE (Anywhere on Earth).
+The early bird registration closed on ~~15th September 2023 11:59PM AOE (Anywhere on Earth)~~ 26th September 2023 11:59PM AOE (Anywhere on Earth).
 Please read the information below and fill in the forms linked on this page.
 
 Note that only limited seats are available and preference to register and attend shall be given to postgraduate research students, senior undergraduates, etc. 
 The lectures and tutorials in the school will be targetted at the audience with a familiarity of Machine Learning at the level of an early-stage graduate student, but don’t let this statement stop you from applying if you’re interested in attending!
 
-The registration fee varies as per your professional status and affiliation. For more details see [here](#costs). Also note that the discounted rate is available only if you register before the **early-bird deadline** (26th September).
+The registration fee varies as per your professional status and affiliation. For more details see [here](#costs). Also note that the discounted rate is available only if you registered before the **early-bird deadline** (26th September).
 The organizing committee has the rights to reject or cancel the registration of any participant.
 
 If this page doesn’t include all the information you need, please send your questions to [{{ site.email }}](mailto:{{ site.email }}), we will answer as soon as possible and add the missing information to the Frequently Asked Question section at the bottom of this page.
