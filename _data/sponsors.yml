@@ -1,14 +1,38 @@
-- name: ISMIR India
-  logo: ./images/sponsors/ismir_logo.png
-  height: "110"
-  url: https://ismir.net
+- plan: "Platinum"
+  sponsors:
+    - name: ISMIR India
+      logo: ./images/sponsors/ismir_logo.png
+      height: "105"
+      width: "210"
+      margin-top: "25"
+      url: https://ismir.net
+    - name: IndSCA
+      logo: ./images/sponsors/indsca_logo.png
+      height: "150"
+      margin-top: "0"
+      width: "185"
+      url: https://indsca.web.app/about
+    - name: SERB
+      logo: ./images/sponsors/serb_logo.png
+      height: "130"
+      width: "190"
+      margin-top: "0"
+      url: https://serb.gov.in/
 
-- name: IndSCA
-  logo: ./images/sponsors/indsca_logo.png
-  height: "140"
-  url: https://indsca.web.app/about
+- plan: "Gold"
+  sponsors:
+    - name: Saregama
+      logo: ./images/sponsors/saregama_logo.png
+      height: "130"
+      width: "200"
+      margin-top: "0"
+      url: https://www.saregama.com/
 
-- name: SERB
-  logo: ./images/sponsors/serb_logo.png
-  height: "130"
-  url: https://serb.gov.in/
+- plan: "Silver"
+  sponsors:
+    - name: Google
+      logo: ./images/sponsors/google_logo.png
+      height: "130"
+      width: "230"
+      margin-top: "0"
+      url: https://research.google.com/

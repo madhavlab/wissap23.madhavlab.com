@@ -72,13 +72,14 @@ All submissions must comply to the following guidelines:
 - Templates: make sure to use the latest template: <a href="/assets/ExtendedAbstractTemplateForWiSSAP23.zip" target="_blank" class="btn btn-primary custom-button">Zip</a> / <a href="https://www.overleaf.com/read/nyvqxznrkrry" target="_blank" class="btn btn-primary custom-button">Overleaf</a> , for WiSSAP EA (available for Latex). Submissions must be in PDF format.
 - Submission system: please submit the extended abstract to the Microsoft CMT site. <a href="https://cmt3.research.microsoft.com/WiSSAP2023/" target="_blank" class="btn btn-primary custom-button">Submit Here</a>
 <!-- (Click [here](https://cmt3.research.microsoft.com/WiSSAP2023/) -> Author console -> Create new submission) -->
+- Accepted submissions will be notified as early as possible from 1st November.
 - Note that we allow authors to edit their submissions until the camera-ready deadline.
 - Supplementary material (optional): authors can also submit a demo video (5 minutes or less, mp4, h264 codec, 100MB or less, with closed captions).
 
 ## Timeline
 
-- 11:59 PM AOE (Anywhere-on-Earth), ~~1st October~~ 9th October 2023- Abstract Submission Deadline
-- 28th October 2023 - Results announced
+- 11:59 PM AOE (Anywhere-on-Earth), ~~9th October~~ 25th October 2023- Abstract Submission Deadline
+- 1st November 2023 - Results announced
 - 8th November 2023 - Registration of Authors
 - 25th November 2023 - Camera Ready Submission Deadline
 

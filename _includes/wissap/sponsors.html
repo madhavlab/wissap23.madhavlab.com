@@ -7,77 +7,59 @@
     /* Your custom button styles on hover */
   }
 
-  /* Add this CSS to align sponsors from left to right */
   .sponsor-logos {
     display: flex;
     justify-content: flex-start;
     flex-wrap: wrap;
   }
+  .other-sponsors {
+    padding: 2em 1em !important;
+    margin-left: 0em;
+}
+  .platinum {
+    padding: 2em 1em !important;
+    margin-left: 0em;
+}
+
+.platinum-container {
+  margin-left: -4em; /* Adjust the margin as needed to move all 'Platinum' sponsors to the left together */
+}
+.platinum-container .platinum {
+  float: left;
+}
+
 </style>
 
 <section id="sponsors" class="container content-section">
-    <div class="row">
-        <div class="col-lg-12">
-            <h2>/ Sponsors</h2>
-        </div>
-        <div class="row">
-            <!-- Add the sponsor-logos class to the parent div -->
-            <div class="col-lg-12 text-center sponsor-logos">
-                {% for institution in site.data.sponsors %}
-                <div style="padding: 2em 1em !important;">
-                    <a href="{{ institution.url }}">
-                        <img height="{{institution.height}}" src="{{ institution.logo | relative_url }}" alt="{{ institution.name }}">
-                    </a>
-                </div>
-                {% endfor %}
-                <p>
-                  <br>
-                  <br>
-                  &nbsp;&nbsp;&nbsp; and more!
-                </p>
-            </div>
-            <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-              <a href="assets/sponsorship_opportunity.pdf" target="_blank" class="btn btn-primary custom-button">Call for Sponsors</a>
-            </p>
-        </div>
-    </div>
-</section>
+  <div class="row">
+      <div class="col-lg-12">
+          <h2>/ Sponsors</h2>
+      </div>
 
+      {% for plan in site.data.sponsors %}
+      <div class="row">
+          <div class="col-lg-12 text-center sponsor-logos">
+              <h3>{{ plan.plan }}</h3>
 
-<!-- <style>
-  .custom-button {
-      display: inline-block;
-      padding: 4px 8px;
-      /* font-size: 18px; */
-      /* font-weight: bold; */
-      text-align: center;
-      text-decoration: none;
-      color: #fff;
-      /* border: 2px solid #007bff; 
-      border-radius: 8px; */
-  }
-  
-  .custom-button:hover {
-      background-color: #0056b3; 
-      border-color: #0056b3; 
-  }
-  </style>
-
-    <section id="sponsor" class="container content-section">
-        <div class="row">
-            <div class="col-lg-12">
-                <h2>/ Sponsors</h2>
-            </div>
-            <div class="row">
-                <div class="col-lg-12 text-center" style="width: 100%; display: flex; flex-wrap: wrap; align-items: center;">                    
-                  {% for institution in site.data.sponsors %}
-                  <div style="flex: 1; padding: 2em 1em 2em 1em !important;">
-                    <a href="{{ institution.url }}">
-                      <img height="120" src="{{ institution.logo | relative_url }}" alt="{{ institution.name }}">
-                    </a>
-                  </div>
-                  {% endfor %}
-                </div>
+              {% if plan.plan == 'Platinum' %}
+              <div class="platinum-container">
+              {% endif %}
+              {% for sponsor in plan.sponsors %}
+              <div class="sponsor-box {% if plan.plan == 'Platinum' %}platinum{% else %}other-sponsors{% endif %}">
+                <a href="{{ sponsor.url }}">
+                  <img class="sponsor-image" style="margin-top: {{ sponsor['margin-top'] }}px;" height="{{ sponsor.height }}" width="{{ sponsor.width }}" src="{{ sponsor.logo | relative_url }}" alt="{{ sponsor.name }}">
+                </a>
               </div>
-        </div>
-    </section> -->
+              {% endfor %}
+              </div>
+          </div>
+      </div>
+      {% endfor %}
+
+      <div class="row">
+          <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              <a href="assets/sponsorship_opportunity.pdf" target="_blank" class="btn btn-primary custom-button">Call for Sponsors</a>
+          </p>
+      </div>
+  </div>
+</section>
