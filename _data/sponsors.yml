@@ -3,19 +3,19 @@
     - name: ISMIR India
       logo: ./images/sponsors/ismir_logo.png
       height: "105"
-      width: "210"
+      width: "230"
       margin-top: "25"
       url: https://ismir.net
     - name: IndSCA
       logo: ./images/sponsors/indsca_logo.png
-      height: "150"
+      height: "160"
       margin-top: "0"
-      width: "185"
+      width: "183"
       url: https://indsca.web.app/about
     - name: SERB
       logo: ./images/sponsors/serb_logo.png
-      height: "130"
-      width: "190"
+      height: "140"
+      width: "200"
       margin-top: "0"
       url: https://serb.gov.in/
 
@@ -24,7 +24,7 @@
     - name: Saregama
       logo: ./images/sponsors/saregama_logo.png
       height: "130"
-      width: "200"
+      width: "210"
       margin-top: "0"
       url: https://www.saregama.com/
 
@@ -33,6 +33,6 @@
     - name: Google
       logo: ./images/sponsors/google_logo.png
       height: "130"
-      width: "230"
+      width: "265"
       margin-top: "0"
       url: https://research.google.com/
