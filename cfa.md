@@ -23,6 +23,10 @@ permalink: /cfa
 }
 </style>
 
+<span style="color: #FF5356;">
+Now accepting applications for travel support for accepted abstracts. (<a href="#travel-support" style="color: #FF5356; text-decoration: underline;">travel support</a>).</span>
+
+
 <!-- <span style="color: #FF5356;">Registration is now closed. We thank all the applicants for their interest in the school. The results of the application process will be announced on 28th April 2023.</span> -->
 
 The 16th Winter School on Audio and Speech Processing 2023 (WISSAP '23) welcomes contributions in all the areas related to Audio Processing, MIR and its applications, including music computational analysis, processing, generation, algorithms, and their evaluation. 
@@ -82,6 +86,12 @@ All submissions must comply to the following guidelines:
 - 20th November 2023 - Results announced
 - 25th November 2023 - Registration of Authors
 - 30th November 2023 - Camera Ready Submission Deadline
+
+## Travel Support
+
+As a part of the commitments to foster diversity and inclusion and to support early-career members of the Audio Processing/MIR community, we are pleased to offer several financial support opportunities for authors of the accepted abstracts. To apply submit the <a href="https://forms.office.com/r/1QivCDzXi9" target="_blank" class="btn btn-primary custom-button">Travel Grants</a> form before 20th November 2023.
+
+We would like to thank the generous support of our sponsors, for supporting our community.
 
 ---
 
