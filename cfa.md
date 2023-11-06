@@ -90,6 +90,11 @@ All submissions must comply to the following guidelines:
 ## Travel Support
 
 As a part of the commitments to foster diversity and inclusion and to support early-career members of the Audio Processing/MIR community, we are pleased to offer several financial support opportunities for authors of the accepted abstracts. To apply submit the <a href="https://forms.office.com/r/1QivCDzXi9" target="_blank" class="btn btn-primary custom-button">Travel Grants</a> form before 20th November 2023.
+The support includes-
+1. Travel by train (3-tier AC) or economy class flight, whichever is lesser.
+2. Partial Relaxation in registration fee.
+3. Accommodation Support
+4. The support is capped at INR 6000 for every selected abstract.
 
 We would like to thank the generous support of our sponsors, for supporting our community.
 
