@@ -38,8 +38,8 @@
       url: https://research.google.com/
     
     - name: Adobe
-      logo: ./images/sponsors/adobe_logo.ai
+      logo: ./images/sponsors/adobe_logo.png
       height: "130"
       width: "290"
       margin-top: "0"
-      url: https://research.google.com/
+      url: https://research.adobe.com/
