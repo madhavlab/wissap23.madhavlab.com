@@ -15,7 +15,7 @@
     - name: SERB
       logo: ./images/sponsors/serb_logo.png
       height: "140"
-      width: "200"
+      width: "215"
       margin-top: "0"
       url: https://serb.gov.in/
 
@@ -24,7 +24,7 @@
     - name: Saregama
       logo: ./images/sponsors/saregama_logo.png
       height: "130"
-      width: "210"
+      width: "225"
       margin-top: "0"
       url: https://www.saregama.com/
 
@@ -34,5 +34,12 @@
       logo: ./images/sponsors/google_logo.png
       height: "130"
       width: "265"
+      margin-top: "0"
+      url: https://research.google.com/
+    
+    - name: Adobe
+      logo: ./images/sponsors/adobe_logo.ai
+      height: "130"
+      width: "290"
       margin-top: "0"
       url: https://research.google.com/
