@@ -57,7 +57,7 @@
   image: images/core-team/krsumit.jpeg
 
 - name: Kavya Ranjan Saxena
-  title: Competition
+  title: Program Coordinator
   webpage: https://madhavlab.github.io/team/kavyars
   image: images/core-team/kavyars.jpeg
 
@@ -71,18 +71,18 @@
 #   webpage: https://madhavlab.github.io/team/adhiraj
 #   image: images/core-team/adhiraj.jpeg
 
-# - name: Akanksha Singh
-#   title: Abstract and Promotion
-#   webpage: https://madhavlab.github.io/team/akankss20
-#   image: images/core-team/akankss20.jpeg
-
 - name: Rahul Kodag
   title: Travel Coordinator
   webpage: https://madhavlab.github.io/team/rkodag
   image: images/core-team/rkodag.jpeg
 
+- name: Akanksha Singh
+  title: Hospitality
+  webpage: https://madhavlab.github.io/team/akankss20
+  image: images/core-team/akankss20.jpeg
+
 - name: Parampreet Singh
-  title: IT Support
+  title: IT Coordinator
   webpage: https://madhavlab.github.io/team/params21
   image: images/core-team/params21.jpg
 

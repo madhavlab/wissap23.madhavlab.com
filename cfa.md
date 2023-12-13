@@ -87,6 +87,15 @@ All submissions must comply to the following guidelines:
 - 25th November 2023 - Registration of Authors
 - 30th November 2023 - Camera Ready Submission Deadline
 
+## Camera Ready
+
+For preparing camera-ready submissions, please follow these guidelines:
+
+- The poster area includes poster boards which are suitable for A0 size posters in portrait orientation. 
+- In addition, sufficient push tacks or Velcro adhesive will be provided for mounting the posters. The presenters have time to mount their poster during the transition prior to each session. 
+- Please remove your poster at the end of your allocated session. Posters left mounted to the boards after end of the session will be removed and disposed.
+
+
 ## Travel Support
 
 As a part of the commitments to foster diversity and inclusion and to support early-career members of the Audio Processing/MIR community, we are pleased to offer several financial support opportunities for authors of the accepted abstracts. To apply submit the <a href="https://forms.office.com/r/1QivCDzXi9" target="_blank" class="btn btn-primary custom-button">Travel Grants</a> form before 20th November 2023.
