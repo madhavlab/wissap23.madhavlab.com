@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to Reach...
+title: After you Register
 permalink: /howtoreach
 ---
 
