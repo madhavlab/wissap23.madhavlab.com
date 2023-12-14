@@ -1,37 +1,44 @@
 ---
 layout: page
-title: How to Reach
+title: How to Reach...
 permalink: /howtoreach
 ---
 
-WiSSAP 2023 will take place in IIT Kanpur this year from 18 Dec - 21 Dec. Participants can refer to the details below for their arrival and stay here. 
+## Travel Advice: Before you travel
 
-## By Air
+- Pack essential winter apparel, such as thermals, gloves, a beanie, etc., as it can get quite chilly on the campus. 
+- The temperatures can range between 15-25 degrees during the daytime and between 5-10 degrees at night. 
+- Also, please be sure to bring medications for cold and stomach ailments with you and a mosquito repellant as well.
 
-- There is a wide variety of flight options available to reach IITK. The nearest airport to venue is the Kanpur Airport or Lucknow Airport.
-- Ola/Uber or private cab booking are viable options of travel from both airports to IIT Kanpur .
-- The cabs booked online via Ola/Uber have dynamic pricing and vary in between INR 400- 700 INR or INR 1800- INR 2500 for transfers to IITK from Kanpur and Lucknow Airports respectively.
-- For booking a private cab from Lucknow Airport to IITK, the fare is INR 2150 (for small vehicle) and INR 2750 (for large vehicle). From Kanpur Airport, the fare is INR 750 (for small vehicle) and INR 1350 (for large vehicle). Please note that the booking of private cab should be done at least 2-3 hours before the planned travel.
+## Arriving at IIT Kanpur
 
-## By Train
+Coordinator: [Rahul Kodag](mailto: rkodag@iitk.ac.in) (+91 9324862340/ +91 7208799450)
 
-- Participants can book their train tickets to the Kanpur Central Railway Station (CNB), arriving here latest by 17th December.
-- For reaching IITK from station, participants can book Ola/Uber Cabs online or Auto/E- Rickshaws from Auto stand (at station) with destination as IIT Kanpur, Kalyanpur, 208016. Auto Rickshaws charge INR 300 - INR 350 from Railway station to IITK while cabs from Ola/Uber charge around INR 200 - INR 350.
-- For booking a private cab from Kanpur Railway Station to IITK, the fare is INR 450 (for small vehicle) and INR 650 (for large vehicle). Please note that the booking of private cab should be done at least 2-3 hours before the planned travel.
+### From Airport (Kanpur (KNU)/Lucknow (LKO))
+
+- Private Cab (Vendor Details Below): Fare is INR 750 (for small vehicle) and INR 1350 (for large vehicle) from KNU and INR 2150 (for small vehicle) and INR 2750 (for large vehicle) from LKO. **Please book well in advance**.
+- Ola/Uber: They have dynamic pricing. Ranges from INR 400- INR 700  or INR 1800- INR 2500 for transfers from KNU and LKO respectively.
+
+### From Railway station (CNB)
+
+- Private Cab (Vendor Details Below): Fare is INR 450 (for small vehicle) and INR 650 (for large vehicle). **Please book well in advance**.
+- Ola/Uber: They have dynamic pricing. Ranges from INR 200 - INR 350.
+- Auto/E-Rickshaw/Taxi (from taxi stand, CNB): Charge around INR 250 - INR 350.
 
 ## After Reaching IITK
 
-- You can directly check-in to the booked accommodation facility in IITK after reaching here.
-- Male participants can directly reach to Hall- 3. You can contact one of the team members in the Hall who will assist you for checking-in. Contact Person- [Divyanshu Tripathi](mailto: divt@iitk.ac.in) (+91 8576929213)
-- Female participants can directly reach to Hall- 6. You can contact one of the team members in the Hall who will assist you for checking-in. Contact Person- [Akanksha Singh](mailto: akankss20@iitk.ac.in) (+91 9935531362)
+Coordinator: [Sumit Kumar](mailto: krsumit@iitk.ac.in) (+91 8881635271/ +91 8318389458)
+
+Report at your assigned hostel.
+
+- For Males: Hall 3. [Divyanshu Tripathi](mailto: divt@iitk.ac.in) (+91 8576929213, Room Number ) will assist you for checking-in.
+- For Females: Hall 4. [Akanksha Singh](mailto: akankss20@iitk.ac.in) (+91 9935531362, Room Number G-212) will assist you for checking-in. 
+
+--------------
+
+**Private Cab Vendor**: [Mr. Manoj Dixit](mailto: dixitmanoj906@gmail.com), Shri Sai Travels (+91 9935931328/ +91 9140251148)
 
 <br>
-
-## Travel Assistance
-
-- In case participants face any difficulty/issue in their travel, they may contact the travel coordinator from our team.
-
-### Travel Coordinator- [Rahul Kodag](mailto: rkodag@iitk.ac.in) (+91 9324862340/ +91 7208799450)
 
 If this section does not answer all of your queries, please ask us [{{ site.email }}](mailto:{{ site.email }}).
 
