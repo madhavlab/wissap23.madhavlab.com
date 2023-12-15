@@ -1,7 +1,7 @@
 ---
 layout: page
-title: After you Register
-permalink: /afteryouregister
+title: Information for Participants
+permalink: /information-for-participants
 ---
 
 ## Travel Advice: Before you travel
