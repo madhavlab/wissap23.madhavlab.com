@@ -1,18 +1,17 @@
 ---
 layout: page
 title: After you Register
-permalink: /howtoreach
+permalink: /afteryouregister
 ---
 
 ## Travel Advice: Before you travel
 
-- Pack essential winter apparel, such as thermals, gloves, a beanie, etc., as it can get quite chilly on the campus. 
-- The temperatures can range between 15-25 degrees during the daytime and between 5-10 degrees at night. 
-- Also, please be sure to bring medications for cold and stomach ailments with you and a mosquito repellant as well.
+- Supplies: Medication (for cold, stomach ailments, etc.) and mosquito repellant.
+- Clothing: Pack essential winter apparel, such as thermals, gloves, a beanie. Minimum temperature in December is 5 degrees.
 
 ## Arriving at IIT Kanpur
 
-Coordinator: [Rahul Kodag](mailto: rkodag@iitk.ac.in) (+91 9324862340/ +91 7208799450)
+<u>Travel Coordinator</u>: [Rahul Kodag](mailto: rkodag@iitk.ac.in) (+91 9324862340/ +91 7208799450)
 
 ### From Airport (Kanpur (KNU)/Lucknow (LKO))
 
@@ -27,16 +26,25 @@ Coordinator: [Rahul Kodag](mailto: rkodag@iitk.ac.in) (+91 9324862340/ +91 72087
 
 ## After Reaching IITK
 
-Coordinator: [Sumit Kumar](mailto: krsumit@iitk.ac.in) (+91 8881635271/ +91 8318389458)
+<u>Accommodation Coordinator</u>: [Sumit Kumar](mailto: krsumit@iitk.ac.in) (+91 8881635271/ +91 8318389458)
 
 Report at your assigned hostel.
 
-- For Males: Hall 3. [Divyanshu Tripathi](mailto: divt@iitk.ac.in) (+91 8576929213, Room Number ) will assist you for checking-in.
+- For Males: Hall 3. [Divyanshu Tripathi](mailto: divt@iitk.ac.in) (+91 8576929213) will assist you for checking-in.
 - For Females: Hall 4. [Akanksha Singh](mailto: akankss20@iitk.ac.in) (+91 9935531362, Room Number G-212) will assist you for checking-in. 
 
 --------------
 
 **Private Cab Vendor**: [Mr. Manoj Dixit](mailto: dixitmanoj906@gmail.com), Shri Sai Travels (+91 9935931328/ +91 9140251148)
+
+--------------
+
+Route from IIT Kanpur Main Gate to Hall-3 and Hall-4-
+
+<iframe src="./assets/iitk_map.pdf" width="100%" height="600px"></iframe>
+
+
+
 
 <br>
 
