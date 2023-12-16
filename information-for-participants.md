@@ -32,7 +32,7 @@ permalink: /information-for-participants
 Report at your assigned hostel.
 
 - For Males: Hall 3. [Divyanshu Tripathi](mailto: divt@iitk.ac.in) (+91 8576929213, Room Number A-134) will assist you for checking-in.
-- For Females: Hall 4. [Akanksha Singh](mailto: akankss20@iitk.ac.in) (+91 9935531362, Room Number G-212) will assist you for checking-in. 
+- For Females: Hall 4. [Akanksha Singh](mailto: akankss20@iitk.ac.in) (+91 9935531362) will assist you for checking-in. 
 
 --------------
 
