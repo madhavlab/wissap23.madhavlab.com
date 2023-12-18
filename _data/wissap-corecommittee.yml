@@ -22,9 +22,6 @@
 # - name: Parampreet
 #   title: IT Support
 
-# - name: Raviteja
-#   title: Accomodation Coordinator
-
 # - name: Shiv Narayana
 #   title: Finance
  
@@ -91,11 +88,18 @@
   webpage: https://madhavlab.github.io/team/shivnp
   image: images/core-team/shivnp.jpg
 
+- name: Raviteja
+  title: Volunteer
+  image: images/core-team/rraja21.jpeg
+
 # - name: Sachidanand Prjapati
 #   title: Volunteer
-#   webpage: https://madhavlab.github.io/team/sachin
 #   image: images/core-team/sachin.jpeg
 
-# - name: Kajal
-#   title: Music Program
-#   image: images/core-team/KajalHeer.png
+- name: Divyanshu Tripathi
+  title: Volunteer
+  image: images/core-team/divt.jpeg
+
+- name: Shruti Mishra
+  title: Volunteer
+  image: images/core-team/shrutim.jpeg
