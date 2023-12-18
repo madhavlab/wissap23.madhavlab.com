@@ -2,8 +2,8 @@
   subtitle: 18 December
   events:
     - title: Inauguration and Session
-      subtitle: "Fundamentals of"
-      subsubtitle: Audio Signal Processing 
+      subtitle: "Society Presentations"
+      subsubtitle: (ISMIR, INDISCA), MIR in India) 
       time: 9:00 - 10:30
       height: 2
     - title: Vipul Arora 
@@ -34,7 +34,7 @@
       subtitle: Human Computer Interaction for Music
       time: 4:00 - 5:30
       height: 1.5
-    - title: Music Program
+    - title: Human Computer Interaction Demos
       subtitle: ""
       time: 5:30 - 6:00
       height: 1.5
@@ -42,7 +42,7 @@
 - title: Tuesday
   subtitle: 19 December
   events:
-    - title: George Tzanetakis
+    - title: Zhiyao Duan
       subtitle: Intro to MIR, Music Terminology,
       subsubtitle: Music Features
       time: 9:00 - 10:30
@@ -51,7 +51,7 @@
       subtitle: Extended Abstracts
       time: 10:30 - 11:00
       height: 1.5
-    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break + Posters (1)
+    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break + Posters
       subtitle: Extended Abstracts
       time: 11:00 - 11:30
       height: 1.5
@@ -63,21 +63,21 @@
       subtitle: ""
       time: 1:00 - 2:00
       height: 1.5
-    - title: George Tzanetakis 
-      subtitle: "Hands On: Structure Analysis, Music Alignment"
+    - title: Preeti Rao
+      subtitle: "Computational Musicology, Non-Westeren Music"
       time: 2:00 - 3:30
       height: 1.5
-    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break + Posters (1)
+    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break + Posters
       subtitle: Extended Abstracts
       time: 3:30 - 4:00
       height: 1.5
-    - title: Session
-      subtitle: MIR Research in India
+    - title: Ajay Srinivasmurthy
+      subtitle: Datasets for MIR Research in India
       time: 4:00 - 5:30
       height: 1.5
-    - title: Society Presentation
+    - title: Banquet Dinner
       subtitle: ""
-      time: 5:30 - 6:00
+      time: ""
       height: 1.5
     # - title: <i class="fa-solid fa-utensils"></i> Banquet Dinner
     #   subtitle: ""
@@ -87,32 +87,32 @@
 - title: Wednesday
   subtitle: 20 December
   events:
-    - title: George Tzanetakis 
-      subtitle: Music Classification Tasks,
-      subsubtitle: Chord Recognition
+    - title: Vinoo Alluri
+      subtitle: Music Classification Tasks
+      subsubtitle: ""
       time: 9:00 - 10:30
       height: 2
-    - title: Flash Presentations
-      subtitle: Extended Abstracts
+    - title: Sandipan Dhar
+      subtitle: PhD Presentations
       time: 10:30 - 11:00
       height: 1.5
-    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break + Posters (2)
+    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break + Posters
       subtitle: Extended Abstracts
       time: 11:00 - 11:30
       height: 1.5
     - title: Zhiyao Duan
-      subtitle: Pitch Detection, Multi-Pitch Estimation, Melody Extraction, Music Transcription
+      subtitle: Pitch Detection, Multi-Pitch Analysis
       time: 11:30 - 1:00
       height: 2
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
       subtitle: ""
       time: 1:00 - 2:00
       height: 1.5
-    - title: George Tzanetakis 
-      subtitle: "Hands On: Sound Source Separation"
+    - title: Anup Singh
+      subtitle: "Hands On: Audio Fingerprinting"
       time: 2:00 - 3:30
       height: 1.5
-    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break + Posters (2)
+    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break + Posters
       subtitle: Extended Abstracts
       time: 3:30 - 4:00
       height: 1.5
@@ -120,7 +120,7 @@
       subtitle: Intelligent Musical Instruments
       time: 4:00 - 5:30
       height: 1.5
-    - title: Music Program
+    - title: Lecture Demo by APPROACH Cell
       subtitle: ""
       time: 5:30 - 6:00
       height: 1.5
@@ -134,33 +134,33 @@
 - title: Thursday
   subtitle: 21 December
   events:
-    - title: George Tzanetakis 
-      subtitle: Computational Ethnomusicology,
-      subsubtitle: Non-Western Music
+    - title: Zhiyao Duan
+      subtitle: ""
+      subsubtitle: "Interactive Music Systems"
       time: 9:00 - 10:30
-    - title: Flash Presentations
-      subtitle: Extended Abstracts
+      height: 1.5
+    - title: Breakout Session
+      subtitle: ""
       time: 10:30 - 11:00
       height: 1.5
-      height: 1.5
-    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break + Posters (3)
-      subtitle: Extended Abstracts
+    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
+      subtitle: ""
       time: 11:00 - 11:30
       height: 1.5
     - title: Zhiyao Duan
-      subtitle: Music Generation, Music Interaction
+      subtitle: Breakout Session Continued
       time: 11:30 - 1:30
       height: 2
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
       subtitle: ""
       time: 1:00 - 2:00
       height: 1.5
-    - title: Zhiyao Duan
+    - title: Christos Benetatos
       subtitle: "Hands On: Interactive Music Generation"
       time: 2:00 - 3:30
       height: 1.5
-    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break + Posters (3)
-      subtitle: Extended Abstracts
+    - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
+      subtitle: ""
       time: 3:30 - 4:00
       height: 1.5
     - title: Panel Discussion + Closing Ceremony
