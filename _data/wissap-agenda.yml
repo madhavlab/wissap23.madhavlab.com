@@ -3,29 +3,32 @@
   events:
     - title: Inauguration and Session
       subtitle: "Society Presentations"
-      subsubtitle: (ISMIR, INDISCA), MIR in India) 
+      subsubtitle: (ISMIR, IndISCA), MIR in India) 
+      slides: 
       time: 9:00 - 10:30
-      height: 2
+      height: 2-5
     - title: Vipul Arora 
       subtitle: Audio Signal Processing
       time: 10:30 - 11:00
-      height: 1.5
+      height: 2.5
+      slides: ""
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       subtitle: ""
       time: 11:00 - 11:30
       height: 1-3
     - title: Vinoo Alluri
       subtitle: Music Research in Big Data Era
+      subsubtitle: ""
       time: 11:30 - 1:00
-      height: 2
+      height: 2-3
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
       subtitle: ""
       time: 1:00 - 2:00
-      height: 1.5
+      height: 2.5
     - title: MADHAV Lab 
       subtitle: "Python for MIR: Hands On"
       time: 2:00 - 3:30
-      height: 1.5
+      height: 2-3
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       subtitle: ""
       time: 3:30 - 4:00
@@ -33,7 +36,8 @@
     - title: Gowdham Prabhakar
       subtitle: Human Computer Interaction for Music
       time: 4:00 - 5:30
-      height: 1.5
+      slides: "assets/gowdham_hci4m.pdf"
+      height: 2-3
     - title: Human Computer Interaction Demos
       subtitle: ""
       time: 5:30 - 6:00
@@ -46,11 +50,13 @@
       subtitle: Intro to MIR, Music Terminology,
       subsubtitle: Music Features
       time: 9:00 - 10:30
-      height: 2
+      slides: "https://hajim.rochester.edu/ece/sites/zduan/resource/WiSSAP2023/WiSSAP2023_IntroToMIR_ZhiyaoDuan.pdf"
+      height: 2-5
     - title: Flash Presentations
       subtitle: Extended Abstracts
       time: 10:30 - 11:00
-      height: 1.5
+      slides: "assets/flash_presentations.pdf"
+      height: 2.5
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break + Posters
       subtitle: Extended Abstracts
       time: 11:00 - 11:30
@@ -58,7 +64,8 @@
     - title: Zhiyao Duan
       subtitle: Tempo, Beats, Rhythm Analysis
       time: 11:30 - 1:00
-      height: 2
+      slides: "https://hajim.rochester.edu/ece/sites/zduan/resource/WiSSAP2023/WiSSAP2023_MusicRhythmAnalysis_ZhiyaoDuan.pdf"
+      height: 2.5
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
       subtitle: ""
       time: 1:00 - 2:00
@@ -66,7 +73,8 @@
     - title: Preeti Rao
       subtitle: "Computational Musicology, Non-Westeren Music"
       time: 2:00 - 3:30
-      height: 1.5
+      slides: "assets/preeti_compmusic.pdf"
+      height: 2.5
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break + Posters
       subtitle: Extended Abstracts
       time: 3:30 - 4:00
@@ -74,10 +82,10 @@
     - title: Ajay Srinivasmurthy
       subtitle: Datasets for MIR Research in India
       time: 4:00 - 5:30
-      height: 1.5
+      height: 2-3
     - title: Banquet Dinner
       subtitle: ""
-      time: ""
+      time: 7:00 - 9:00
       height: 1.5
     # - title: <i class="fa-solid fa-utensils"></i> Banquet Dinner
     #   subtitle: ""
@@ -91,11 +99,12 @@
       subtitle: Music Classification Tasks
       subsubtitle: ""
       time: 9:00 - 10:30
-      height: 2
+      height: 2-5
     - title: Sandipan Dhar
       subtitle: PhD Presentations
+      slides: "assets/sandeepan_phdpresentation.pdf"
       time: 10:30 - 11:00
-      height: 1.5
+      height: 2-3
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break + Posters
       subtitle: Extended Abstracts
       time: 11:00 - 11:30
@@ -103,7 +112,8 @@
     - title: Zhiyao Duan
       subtitle: Pitch Detection, Multi-Pitch Analysis
       time: 11:30 - 1:00
-      height: 2
+      slides: "https://hajim.rochester.edu/ece/sites/zduan/resource/WiSSAP2023/WISSAP2023_MusicPitchAnalysis_ZhiyaoDuan.pdf"
+      height: 2.5
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
       subtitle: ""
       time: 1:00 - 2:00
@@ -111,7 +121,8 @@
     - title: Anup Singh
       subtitle: "Hands On: Audio Fingerprinting"
       time: 2:00 - 3:30
-      height: 1.5
+      height: 2.5
+      slides: "assets/anup_tutorial.pdf"
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break + Posters
       subtitle: Extended Abstracts
       time: 3:30 - 4:00
@@ -119,7 +130,7 @@
     - title: Andrew McPherson
       subtitle: Intelligent Musical Instruments
       time: 4:00 - 5:30
-      height: 1.5
+      height: 2-3
     - title: Lecture Demo by APPROACH Cell
       subtitle: ""
       time: 5:30 - 6:00
@@ -137,20 +148,21 @@
     - title: Zhiyao Duan
       subtitle: ""
       subsubtitle: "Interactive Music Systems"
+      slides: "https://hajim.rochester.edu/ece/sites/zduan/resource/WiSSAP2023/WiSSAP2023_InteractiveMusicSystems_ZhiyaoDuan.pdf"
       time: 9:00 - 10:30
-      height: 1.5
+      height: 2-5
     - title: Breakout Session
       subtitle: ""
       time: 10:30 - 11:00
-      height: 1.5
+      height: 2-3
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       subtitle: ""
       time: 11:00 - 11:30
-      height: 1.5
+      height: 1-3
     - title: Zhiyao Duan
       subtitle: Breakout Session Continued
       time: 11:30 - 1:30
-      height: 2
+      height: 2-3
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
       subtitle: ""
       time: 1:00 - 2:00
@@ -158,223 +170,16 @@
     - title: Christos Benetatos
       subtitle: "Hands On: Interactive Music Generation"
       time: 2:00 - 3:30
-      height: 1.5
+      height: 2-3
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       subtitle: ""
       time: 3:30 - 4:00
-      height: 1.5
+      height: 1-3
     - title: Panel Discussion + Closing Ceremony
       subtitle: Session
       time: 4:00 - 5:30
-      height: 1.5
-    - title: "TBD"
+      height: 2-3
+    - title: ""
       subtitle: ""
-      time: 5:30 - 6:00
+      time: ""
       height: 1.5
-      
-
-# - title: Monday
-#   subtitle: 18 December
-#   events:
-#     - title: ""
-#       height: 1-no-border
-#     - title: Zhiyao Duan
-#       time: 8:45 - 9:00
-#       height: 1
-#     - title: Marco Cuturi
-#       subtitle: A primer on Optimal Transport Theory and Algorithms, with Applications to Single-Cell Omics
-#       time: 9:00 - 10:30
-#       height: 4
-#     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
-#       time: 10:30 - 11:00
-#       height: 1
-#     - title: Marco Cuturi
-#       subtitle: A primer on Optimal Transport Theory and Algorithms, with Applications to Single-Cell Omics
-#       time: 11:00 - 12:30
-#       height: 4
-#     - title: <i class="fa-solid fa-utensils"></i> Lunch break
-#       time: 12:30 - 13:30
-#       height: 2
-#     - title: Benedek Rozemberczki
-#       subtitle: Deep Learning for Drug Pair Scoring
-#       time: 13:30 - 15:00
-#       height: 3
-#     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
-#       time: 15:00 - 15:30
-#       height: 1
-#     - title: Thea Aarrestad
-#       subtitle: "Unlocking the Secrets of the Universe: Accelerating Discovery with Machine Learning at CERN"
-#       time: 15:30 - 17:00
-#       height: 3
-#     - title: Poster session
-#       time: 17:00+
-#       height: 1-5
-
-# - title: Wednesday
-#   subtitle: 28 June
-#   events:
-#     - title: ""
-#       height: 1-no-border
-#     - title: Registration
-#       time: 8:45 - 9:00
-#       height: 1
-#     - title: Ania Gambin
-#       subtitle: Bayesian models, Bayesian networks, and Bayesian neural networks with applications in computational biology
-#       time: 9:00 - 10:30
-#       height: 4
-#     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
-#       time: 10:30 - 11:00
-#       height: 1
-#     - title: Yarin Gal
-#       subtitle: Uncertainty in Deep Learning
-#       time: 11:00 - 12:30
-#       height: 4
-#     - title: <i class="fa-solid fa-utensils"></i> Lunch break
-#       time: 12:30 - 13:30
-#       height: 2
-#     - title: Krzysztof Maziarz
-#       subtitle: Reaction Prediction and Retrosynthesis
-#       time: 13:30 - 15:00
-#       height: 3
-#     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
-#       time: 15:00 - 15:30
-#       height: 1
-#     - title: Sayak Ray Chowdhury
-#       subtitle: Differential Privacy in Reinforcement Learning
-#       time: 15:30 - 17:00
-#       height: 3
-#     - title: Research projects at Jagiellonian University
-#       time: 17:15 - 18:15
-#       height: 1-5
-#     - title: Free time
-#       time: 18:15+
-#       height: 1
-
-# - title: Thursday
-#   subtitle: 29 June
-#   events:
-#     - title: ""
-#       height: 1-no-border
-#     - title: Registration
-#       time: 8:45 - 9:00
-#       height: 1
-#     - title: Mathias Niepert
-#       subtitle: Learning with Discrete Structures and Algorithms
-#       time: 9:00 - 10:30
-#       height: 4
-#     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
-#       time: 10:30 - 11:00
-#       height: 1
-#     - title: Mathias Niepert
-#       subtitle: Learning with Discrete Structures and Algorithms
-#       time: 11:00 - 12:30
-#       height: 4
-#     - title: <i class="fa-solid fa-utensils"></i> Lunch
-#       time: 12:30 - 13:30
-#       height: 2
-#     - title: Free time
-#       time: 13:30+
-#       height: 3
-
-# - title: Friday
-#   subtitle: 30 June
-#   events:
-#     - title: ""
-#       height: 1-no-border
-#     - title: Registration
-#       time: 8:45 - 9:00
-#       height: 1
-#     - title: Jose Miguel Hernandez-Lobato
-#       subtitle: Machine Learning for Molecules
-#       time: 9:00 - 10:30
-#       height: 4
-#     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
-#       time: 10:30 - 11:00
-#       height: 1
-#     - title: Jose Miguel Hernandez-Lobato
-#       subtitle: Machine Learning for Molecules
-#       time: 11:00 - 12:30
-#       height: 4
-#     - title: <i class="fa-solid fa-utensils"></i> Lunch break
-#       time: 12:30 - 13:30
-#       height: 2
-#     - title: Mario Krenn
-#       subtitle: Towards an Artificial Muse for new Ideas in Physics
-#       time: 13:30 - 15:00
-#       height: 3
-#     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
-#       time: 15:00 - 15:30
-#       height: 1
-#     - title: Mario Krenn
-#       subtitle: Towards an Artificial Muse for new Ideas in Physics
-#       time: 15:30 - 17:00
-#       height: 3
-#     - title: Free time / break
-#       time: 17:00+
-#       height: 1-5
-#     - title: <i class="fa-solid fa-champagne-glasses"></i> Party 2
-#       time: 18:00+
-#       height: 1
-
-# - title: Saturday
-#   subtitle: 1 July
-#   events:
-#     - title: ""
-#       height: 1-no-border
-#     - title: Registration
-#       time: 8:45 - 9:00
-#       height: 1
-#     - title: Żaneta Swiderska-Chadaj
-#       subtitle: Machine Learning in medical image analysis - challenges and opportunities
-#       time: 9:00 - 10:30
-#       height: 4
-#     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
-#       time: 10:30 - 11:00
-#       height: 1
-#     - title: Stanisław Jastrzębski
-#       subtitle: Nothing Makes Sense in Deep Learning Except in the Light of the Simplicity Bias
-#       time: 11:00 - 12:30
-#       height: 4
-#     - title: <i class="fa-solid fa-utensils"></i> Lunch break
-#       time: 12:30 - 13:30
-#       height: 2
-#     - title: Michael Bronstein
-#       subtitle: Geometric deep learning
-#       time: 13:30 - 15:00
-#       height: 3
-#     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
-#       time: 15:00 - 15:30
-#       height: 1
-#     - title: Michael Bronstein
-#       subtitle: Geometric deep learning
-#       time: 15:30 - 17:00
-#       height: 3
-#     - title: Free time
-#       time: 17:00+
-#       height: 1-5
-
-# - title: Sunday
-#   subtitle: 2 July
-#   events:
-#     - title: ""
-#       height: 1-no-border
-#     - title: Registration
-#       time: 8:45 - 9:00
-#       height: 1
-#     - title: Krzysztof Krawiec
-#       subtitle: Machine Learning meets Program Synthesis
-#       time: 9:00 - 10:30
-#       height: 4
-#     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
-#       time: 10:30 - 11:00
-#       height: 1
-#     - title: Bartosz Zieliński
-#       subtitle: Interpretable Deep Learning with Prototypical Parts
-#       time: 11:00 - 12:30
-#       height: 4
-#     - title: <i class="fa-solid fa-utensils"></i> Lunch
-#       time: 12:30 - 13:30
-#       height: 2
-#     - title: Closing remarks
-#       time: 13:30 - 14:00
-#       height: 1
