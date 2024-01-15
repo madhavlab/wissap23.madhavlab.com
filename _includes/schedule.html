@@ -18,6 +18,15 @@ Expects following parameters: agenda-data
                     <div><strong>{{ event.title }}</strong></div>
                     <div style="font-size: 12px;">{{ event.subtitle }}</div>
                     <div style="font-size: 12px;">{{ event.subsubtitle }}</div>
+
+                    {% if event.slides %}
+                        <div>
+                            <a href="{{ event.slides }}" target="_blank" download>
+                                Slides
+                            </a>
+                        </div>
+                    {% endif %}
+
                 </div>
                 {% endfor %}
             </div>
