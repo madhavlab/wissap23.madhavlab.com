@@ -4,14 +4,15 @@
     - title: Inauguration and Session
       subtitle: "Society Presentations"
       subsubtitle: (ISMIR, IndISCA), MIR in India) 
-      slides: 
       time: 9:00 - 10:30
+      recording: "https://youtu.be/foz8c7LsSxU?list=PLbtAaXHMto-vpyPwGJrbpJ9jSb4sEAJo7"
       height: 2-5
     - title: Vipul Arora 
       subtitle: Audio Signal Processing
       time: 10:30 - 11:00
       height: 2.5
       slides: "assets/vipul_intro.pdf"
+      recording: "https://youtu.be/HPXQMC2XmdI?list=PLbtAaXHMto-vpyPwGJrbpJ9jSb4sEAJo7"
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       subtitle: ""
       time: 11:00 - 11:30
@@ -19,6 +20,7 @@
     - title: Vinoo Alluri
       subtitle: Music Research in Big Data Era
       subsubtitle: ""
+      recording: "https://youtu.be/EESEd9G02CY?list=PLbtAaXHMto-vpyPwGJrbpJ9jSb4sEAJo7"
       time: 11:30 - 1:00
       height: 2-3
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
@@ -36,6 +38,7 @@
     - title: Gowdham Prabhakar
       subtitle: Human Computer Interaction for Music
       time: 4:00 - 5:30
+      recording: "https://youtu.be/s4xylVPjmNo?list=PLbtAaXHMto-vpyPwGJrbpJ9jSb4sEAJo7"
       slides: "assets/gowdham_hci4m.pdf"
       height: 2-3
     - title: Human Computer Interaction Demos
@@ -48,13 +51,14 @@
   events:
     - title: Zhiyao Duan
       subtitle: Intro to MIR, Music Terminology,
-      subsubtitle: Music Features
       time: 9:00 - 10:30
       slides: "https://hajim.rochester.edu/ece/sites/zduan/resource/WiSSAP2023/WiSSAP2023_IntroToMIR_ZhiyaoDuan.pdf"
       height: 2-5
+      recording: "https://youtu.be/__0vZ7I9xLY?list=PLbtAaXHMto-vpyPwGJrbpJ9jSb4sEAJo7"
     - title: Flash Presentations
       subtitle: Extended Abstracts
       time: 10:30 - 11:00
+      recording: "https://youtu.be/9smJzEyjVh4?list=PLbtAaXHMto-vpyPwGJrbpJ9jSb4sEAJo7"
       slides: "assets/flash_presentations.pdf"
       height: 2.5
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break + Posters
@@ -62,9 +66,10 @@
       time: 11:00 - 11:30
       height: 1.5
     - title: Zhiyao Duan
-      subtitle: Tempo, Beats, Rhythm Analysis
+      subtitle: Intro to MIR, Music Terminology contd.
       time: 11:30 - 1:00
-      slides: "https://hajim.rochester.edu/ece/sites/zduan/resource/WiSSAP2023/WiSSAP2023_MusicRhythmAnalysis_ZhiyaoDuan.pdf"
+      recording: "https://youtu.be/K-TftoGpVfE?list=PLbtAaXHMto-vpyPwGJrbpJ9jSb4sEAJo7"
+      slides: "https://hajim.rochester.edu/ece/sites/zduan/resource/WiSSAP2023/WiSSAP2023_IntroToMIR_ZhiyaoDuan.pdf"
       height: 2.5
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
       subtitle: ""
@@ -73,6 +78,7 @@
     - title: Preeti Rao
       subtitle: "Computational Musicology, Non-Westeren Music"
       time: 2:00 - 3:30
+      recording: "https://youtu.be/peGEQtaCkqg?list=PLbtAaXHMto-vpyPwGJrbpJ9jSb4sEAJo7"
       slides: "assets/preeti_compmusic.pdf"
       height: 2.5
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break + Posters
@@ -98,6 +104,7 @@
     - title: Vinoo Alluri
       subtitle: Music Classification Tasks
       subsubtitle: ""
+      recording: "https://youtu.be/q4lGWXE5BRA?list=PLbtAaXHMto-vpyPwGJrbpJ9jSb4sEAJo7"
       time: 9:00 - 10:30
       height: 2-5
     - title: Sandipan Dhar
@@ -110,19 +117,21 @@
       time: 11:00 - 11:30
       height: 1.5
     - title: Zhiyao Duan
-      subtitle: Pitch Detection, Multi-Pitch Analysis
+      subtitle: Tempo, Beats, Rhythm Analysis
       time: 11:30 - 1:00
-      slides: "https://hajim.rochester.edu/ece/sites/zduan/resource/WiSSAP2023/WISSAP2023_MusicPitchAnalysis_ZhiyaoDuan.pdf"
+      recording: "https://youtu.be/QiEa7Rqoxq0?list=PLbtAaXHMto-vpyPwGJrbpJ9jSb4sEAJo7"
+      slides: "https://hajim.rochester.edu/ece/sites/zduan/resource/WiSSAP2023/WiSSAP2023_MusicRhythmAnalysis_ZhiyaoDuan.pdf"
       height: 2.5
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
       subtitle: ""
       time: 1:00 - 2:00
       height: 1.5
-    - title: Anup Singh
-      subtitle: "Hands On: Audio Fingerprinting"
+    - title: Zhiyao Duan 
+      subtitle: Pitch Detection, Multi-Pitch Analysis
       time: 2:00 - 3:30
+      recording: "https://youtu.be/DJPmv-si7N4?list=PLbtAaXHMto-vpyPwGJrbpJ9jSb4sEAJo7"
+      slides: "https://hajim.rochester.edu/ece/sites/zduan/resource/WiSSAP2023/WISSAP2023_MusicPitchAnalysis_ZhiyaoDuan.pdf"
       height: 2.5
-      slides: "assets/anup_tutorial.pdf"
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break + Posters
       subtitle: Extended Abstracts
       time: 3:30 - 4:00
@@ -150,6 +159,7 @@
       subsubtitle: "Interactive Music Systems"
       slides: "https://hajim.rochester.edu/ece/sites/zduan/resource/WiSSAP2023/WiSSAP2023_InteractiveMusicSystems_ZhiyaoDuan.pdf"
       time: 9:00 - 10:30
+      recording: "https://youtu.be/QhLtLBV2yls?list=PLbtAaXHMto-vpyPwGJrbpJ9jSb4sEAJo7"
       height: 2-5
     - title: Breakout Session
       subtitle: ""
@@ -159,8 +169,10 @@
       subtitle: ""
       time: 11:00 - 11:30
       height: 1-3
-    - title: Zhiyao Duan
-      subtitle: Breakout Session Continued
+    - title: Anup Singh
+      subtitle: "Hands On: Audio Fingerprinting"
+      slides: "assets/anup_tutorial.pdf"
+      recording: "https://youtu.be/1b_Xgw9y6gg?list=PLbtAaXHMto-vpyPwGJrbpJ9jSb4sEAJo7"
       time: 11:30 - 1:30
       height: 2-3
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
@@ -170,6 +182,7 @@
     - title: Christos Benetatos
       subtitle: "Hands On: Interactive Music Generation"
       time: 2:00 - 3:30
+      recording: "https://youtu.be/IU3TvC-yn1M?list=PLbtAaXHMto-vpyPwGJrbpJ9jSb4sEAJo7"
       height: 2-3
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break
       subtitle: ""

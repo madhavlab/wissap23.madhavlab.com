@@ -19,14 +19,22 @@ Expects following parameters: agenda-data
                     <div style="font-size: 12px;">{{ event.subtitle }}</div>
                     <div style="font-size: 12px;">{{ event.subsubtitle }}</div>
 
-                    {% if event.slides %}
-                        <div>
-                            <a href="{{ event.slides }}" target="_blank" download>
-                                Slides
-                            </a>
+                    <div class="row" style="margin-left: -7mm;">
+                        <div class="col-md-7" style="margin-right: -30mm;">
+                            {% if event.slides %}
+                            <div>
+                                <a href="{{ event.slides }}" target="_blank" download>Slides</a>
+                            </div>
+                            {% endif %}
                         </div>
-                    {% endif %}
-
+                        <div class="col-md-5" style="margin-left: 0mm;">
+                            {% if event.recording %}
+                            <div>
+                                <a href="{{ event.recording }}" target="_blank" download>Recording</a>
+                            </div>
+                            {% endif %}
+                        </div>
+                    </div>
                 </div>
                 {% endfor %}
             </div>
