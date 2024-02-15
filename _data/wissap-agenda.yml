@@ -23,6 +23,7 @@
       recording: "https://youtu.be/EESEd9G02CY?list=PLbtAaXHMto-vpyPwGJrbpJ9jSb4sEAJo7"
       time: 11:30 - 1:00
       height: 2-3
+      slides: "assets/Vinoo_WiSSAP2023.pdf"
     - title: <i class="fa-solid fa-utensils"></i> Lunch break
       subtitle: ""
       time: 1:00 - 2:00
@@ -89,6 +90,8 @@
       subtitle: Datasets for MIR Research in India
       time: 4:00 - 5:30
       height: 2-3
+      recording: "https://youtu.be/vmhgZcvRytM"
+      slides: "assets/Ajay_WiSSAP-2023.pdf"
     - title: Banquet Dinner
       subtitle: ""
       time: 7:00 - 9:00
@@ -107,9 +110,11 @@
       recording: "https://youtu.be/q4lGWXE5BRA?list=PLbtAaXHMto-vpyPwGJrbpJ9jSb4sEAJo7"
       time: 9:00 - 10:30
       height: 2-5
+      slides: "assets/Vinoo_classification.pdf"
     - title: Sandipan Dhar
       subtitle: PhD Presentations
       slides: "assets/sandeepan_phdpresentation.pdf"
+      recording: "https://youtu.be/mN9Hw9wjuzo"
       time: 10:30 - 11:00
       height: 2-3
     - title: <i class="fa-solid fa-mug-saucer"></i> Coffee break + Posters
